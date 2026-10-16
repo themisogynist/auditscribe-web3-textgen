@@ -1,0 +1,36 @@
+{
+  "source": "https://github.com/solodit/solodit_content",
+  "revision": "4d5330d12978c7a8fc2aab5b171112784fb671bd",
+  "seed": 42,
+  "context": 24,
+  "stride": 3,
+  "vocabulary_size": 4000,
+  "reports": 483,
+  "passages": 5140,
+  "splits": {
+    "train": {
+      "reports": 387,
+      "protocol_groups": 294,
+      "tokens": 501620,
+      "unknown_fraction": 0.03472150233244289,
+      "available_windows": 136015,
+      "used_windows": 50000
+    },
+    "validation": {
+      "reports": 48,
+      "protocol_groups": 37,
+      "tokens": 76859,
+      "unknown_fraction": 0.057833175034803994,
+      "available_windows": 20660,
+      "used_windows": 10000
+    },
+    "test": {
+      "reports": 48,
+      "protocol_groups": 37,
+      "tokens": 51873,
+      "unknown_fraction": 0.05791066643533244,
+      "available_windows": 14026,
+      "used_windows": 10000
+    }
+  }
+}

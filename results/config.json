@@ -1,0 +1,23 @@
+{
+  "epochs": 12,
+  "seed": 42,
+  "batch_size": 256,
+  "embedding": 64,
+  "hidden": 96,
+  "dropout": 0.15,
+  "optimizer": "Adam",
+  "learning_rate": 0.003,
+  "gradient_clip": 1.0,
+  "context": 24,
+  "torch": "2.14.1+cpu",
+  "python": "3.12.14",
+  "device": "cpu",
+  "threads": 2,
+  "checkpoint": "minimum validation cross entropy",
+  "temperature": [
+    0.5,
+    1.0,
+    1.5
+  ],
+  "generation_length": 60
+}

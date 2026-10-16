@@ -1,0 +1,3866 @@
+[
+  {
+    "path": "reports/0x52/2023-07-26-Buffer-v2.5.md",
+    "protocol": "buffer",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2023-07-26-Buffer-v2.5.md",
+    "sha256": "b6dba0ab5afdc1e82d0dfb7b086d1980949a83dda49e136614ded787f527e525",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2023-10-07-Dynamo.md",
+    "protocol": "dynamo",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2023-10-07-Dynamo.md",
+    "sha256": "9630227328eb94bcf22cab721cec4f5869d0aeb16b0e8fa9a8ccd3c892612343",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2023-12-18-Ubet.md",
+    "protocol": "ubet",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2023-12-18-Ubet.md",
+    "sha256": "ea19e31754de873c7d94f3e77ea04e322b04ac9133c648a512f089fc74fabeac",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2024-03-27-Blueberry-Staking.md",
+    "protocol": "blueberry",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-03-27-Blueberry-Staking.md",
+    "sha256": "e2ac9fefe2afd015be0817fa21bdd31038f07be82eef546472033a6855d0da36",
+    "split": "test"
+  },
+  {
+    "path": "reports/0x52/2024-05-03-AdapterFi.md",
+    "protocol": "adapterfi",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-05-03-AdapterFi.md",
+    "sha256": "89963f4985a15bfd88f3c2e1ee72f23fb2bce8818ae2aaa41337dc07f905ba18",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2024-06-29-Blueberry-Pendle.md",
+    "protocol": "blueberry",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-06-29-Blueberry-Pendle.md",
+    "sha256": "f5a2b42b73d427e11e7265e9cce57c705e7d23ca886d88245e103e960583bb07",
+    "split": "test"
+  },
+  {
+    "path": "reports/0x52/2024-08-25-AdapterFi-Yield-Bearing-Allocator.md",
+    "protocol": "adapterfi",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-08-25-AdapterFi-Yield-Bearing-Allocator.md",
+    "sha256": "fa7f3c7f883c2c05ce8e2bbbf3de2bf733146f71995521c776681f4a78c0ceea",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2024-09-12-Ubet-Parlay.md",
+    "protocol": "ubet",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-09-12-Ubet-Parlay.md",
+    "sha256": "74704912a31dc73e71ea7a8f07c5853c59c18f3ee7fc3c837c8a38b0ef040a5a",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2024-09-22-stUSDCxBloom.md",
+    "protocol": "stusdcxbloom",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-09-22-stUSDCxBloom.md",
+    "sha256": "2943c3e8dec590384aa7a80db03007c3c79c3cfb2fb8596d0b03e6a42420529b",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2024-12-06-Ubet.md",
+    "protocol": "ubet",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2024-12-06-Ubet.md",
+    "sha256": "13a6b423058422738b663d42ad84cce95672f4ce56583a023e4efcbb37ea674e",
+    "split": "train"
+  },
+  {
+    "path": "reports/0x52/2025-05-02-Hyperstable.md",
+    "protocol": "hyperstable",
+    "auditor": "0x52",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/0x52/2025-05-02-Hyperstable.md",
+    "sha256": "eab89f2f76253aa65945235f209a1b6cf0a90a9588cb1a3ca6a71e1be57b258f",
+    "split": "train"
+  },
+  {
+    "path": "reports/AuditOne/2022-10-19-Newwit.md",
+    "protocol": "newwit",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2022-10-19-Newwit.md",
+    "sha256": "c3d5e6e17db8d60e7d52e47a962ca03ed96aaf03c581610355fe29752388bdd3",
+    "split": "validation"
+  },
+  {
+    "path": "reports/AuditOne/2022-12-14-Unicrow.md",
+    "protocol": "unicrow",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2022-12-14-Unicrow.md",
+    "sha256": "039246175a5891ba5c33b99e3d3c3395c8dad209bce8309e478281a0e4ef140a",
+    "split": "train"
+  },
+  {
+    "path": "reports/AuditOne/2023-03-14-Aurora_NEARplugins.md",
+    "protocol": "aurora",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2023-03-14-Aurora_NEARplugins.md",
+    "sha256": "b09314e70e05de315eea7494e68d9896a05c5f3882b119e444dfe925814d17be",
+    "split": "train"
+  },
+  {
+    "path": "reports/AuditOne/2023-04-06-Soonaverse.md",
+    "protocol": "soonaverse",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2023-04-06-Soonaverse.md",
+    "sha256": "74da9042d478f0196e19c691ddd1710ae3f82b96ddc0b9938f9651ae617fcb32",
+    "split": "validation"
+  },
+  {
+    "path": "reports/AuditOne/2023-04-13-Lotaheros.md",
+    "protocol": "lotaheros",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2023-04-13-Lotaheros.md",
+    "sha256": "c56cd605f686fb616f962a4010776eaa4a7e2fc8000e476811e7c9c79b876bbe",
+    "split": "train"
+  },
+  {
+    "path": "reports/AuditOne/2023-05-09-Aurorafastbridge.md",
+    "protocol": "aurorafastbridge",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2023-05-09-Aurorafastbridge.md",
+    "sha256": "6ea9524ff43b53fc10ffb15be79366ac8a3f3bfdddcbd5020024bc413ed2f853",
+    "split": "train"
+  },
+  {
+    "path": "reports/AuditOne/2023-06-07-Redstone.md",
+    "protocol": "redstone",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2023-06-07-Redstone.md",
+    "sha256": "a40fd8931f7f9a0924a091edb83d45f1aa60cdf1f5652f0ee254d3b6f9e62795",
+    "split": "train"
+  },
+  {
+    "path": "reports/AuditOne/2023-06-29-Coinlend.md",
+    "protocol": "coinlend",
+    "auditor": "AuditOne",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/AuditOne/2023-06-29-Coinlend.md",
+    "sha256": "d293e64ece5cfca5d968368786bd9b7abb0f0dce34e9a90f334fef3c7c9832c2",
+    "split": "validation"
+  },
+  {
+    "path": "reports/CODESPECT/2024-11-04-RedStone-Token.md",
+    "protocol": "redstone",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2024-11-04-RedStone-Token.md",
+    "sha256": "85b509e247068925613a2ca5b9f7f9b218e1f76fdc78981c8fb580315b687b79",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2024-12-10-RedStone-Oracles.md",
+    "protocol": "redstone",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2024-12-10-RedStone-Oracles.md",
+    "sha256": "36659ae4e02b5b5b09a81c73e73e6024ab204e445abd2146c9eb12fe3a47fb32",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-01-23-RemusDEX.md",
+    "protocol": "remusdex",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-01-23-RemusDEX.md",
+    "sha256": "c183c17482f8ad15453662996214abb8da289b2d755d307a77ab856fab2b8a1e",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-02-11-Tempest-Bridge-Oracle.md",
+    "protocol": "tempest",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-02-11-Tempest-Bridge-Oracle.md",
+    "sha256": "3f7dbc1f7651ff1062a5bf141695483f04be14921da5033717884c24cd54c712",
+    "split": "test"
+  },
+  {
+    "path": "reports/CODESPECT/2025-03-18-Tempest-DepositIdle.md",
+    "protocol": "tempest",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-03-18-Tempest-DepositIdle.md",
+    "sha256": "17742b937234883ddc109cf9b07eb407dda244fb544d63cc38d80f4bce1723af",
+    "split": "test"
+  },
+  {
+    "path": "reports/CODESPECT/2025-03-26-TokenTable-Solana-Unlocker-V2.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-03-26-TokenTable-Solana-Unlocker-V2.md",
+    "sha256": "2bead1d4b16c23f0f1d9a6cd2eec9fdf4612979863581e37bbce3f4a21a408e9",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-10-TokenTable-Fractionalizer-and-SellNow.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-10-TokenTable-Fractionalizer-and-SellNow.md",
+    "sha256": "587df4136b2d93d05ba9e40e7d3c4b01816f5bac30b1514dc48befa774645de9",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-16-TokenTable-Solana-Merkle-Airdrop.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-16-TokenTable-Solana-Merkle-Airdrop.md",
+    "sha256": "a5c16a42b1831bf4cd8f27a83fdc59b225a67d10a7c0866042c11334a66690ef",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-16-TokenTable-Solana-Unlocker-V2-Follow-Up.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-16-TokenTable-Solana-Unlocker-V2-Follow-Up.md",
+    "sha256": "5ff9a80796bbaa827fe30ba17ab48f8cd84118d122f969851e5764b01ed54983",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-17-Swell-Repricing-Update.md",
+    "protocol": "swell",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-17-Swell-Repricing-Update.md",
+    "sha256": "0ac6d0950bd5b527ac696d34d0b31425166e118849b64ead698682167dbdf22a",
+    "split": "validation"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-23-TokenTable-ECDSA-Distributor.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-23-TokenTable-ECDSA-Distributor.md",
+    "sha256": "6159263aa966760f565215ba5a5076da5483428b55a7aa3146bd4988e4c7df16",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-25-TokenTable-UnlockerV2-EVM.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-25-TokenTable-UnlockerV2-EVM.md",
+    "sha256": "be9d1173447ec5564c22db87dfd2813eb5d0412c87a789c21a1761ba5a34df20",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-04-28-TokenTable-Merkle-Distributor.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-04-28-TokenTable-Merkle-Distributor.md",
+    "sha256": "9ded108165a6f6b7f21ccc539a24a3b35582b874fb532b95e2e42b5c72c87a0e",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-05-15-TokenTable-Solana-EDDSA.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-05-15-TokenTable-Solana-EDDSA.md",
+    "sha256": "454a17454fe4ec584094d8a298e704291b73b065c75bca06c12a6d9837c45382",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-05-25-Typhoon.md",
+    "protocol": "typhoon",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-05-25-Typhoon.md",
+    "sha256": "00f00641b0c8002451992f8559fea60567bca95285df0ff326c224a003a5399b",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-06-06-SIGN-Staking.md",
+    "protocol": "sign",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-06-06-SIGN-Staking.md",
+    "sha256": "f17cd30572b8c9ba7dd3ead8c82ce324b111b6cab7ecc842e1cd3c404caa7438",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-06-09-Swell-HyperLiquid-Forwarder.md",
+    "protocol": "swell",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-06-09-Swell-HyperLiquid-Forwarder.md",
+    "sha256": "d24d220a1ecec257b20445aaf03e31febbef2e6a367d849dc302cf55da42ccb7",
+    "split": "validation"
+  },
+  {
+    "path": "reports/CODESPECT/2025-06-27-TokenTable-Batched-Merkle-Distributor.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-06-27-TokenTable-Batched-Merkle-Distributor.md",
+    "sha256": "0b35c69f896337e203bca62d37c1f79670c691602c408c8fd43ee84220eaddc8",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-06-27-TokenTable-Merkle-Distributor-with-Fees.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-06-27-TokenTable-Merkle-Distributor-with-Fees.md",
+    "sha256": "e564d1e42e3fbce7258412edaafc3cc78f4e6d45ff4ed2dcb6c0a22e6505567a",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-07-04-Hyperwave-Stablecoin-Oracle-and-Off-Chain-Bot.md",
+    "protocol": "hyperwave",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-07-04-Hyperwave-Stablecoin-Oracle-and-Off-Chain-Bot.md",
+    "sha256": "fe51ce29cf996b9731a961727dca95f65cf18f06e306facb9e1e730de2350c71",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-08-21-TokenTable-Sui.md",
+    "protocol": "tokentable",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-08-21-TokenTable-Sui.md",
+    "sha256": "303e4b90c65fdb9acab62df1992ecddbaf66730574cfc15abc074d1c6485fa61",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-08-25-Hyperwave-CoreWriter.md",
+    "protocol": "hyperwave",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-08-25-Hyperwave-CoreWriter.md",
+    "sha256": "896fe64ada67c99c9fff216444148f29157eb993fbd4840ffe4f3a7cdb58d7e0",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-09-02-Kapan-Finance.md",
+    "protocol": "kapan",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-09-02-Kapan-Finance.md",
+    "sha256": "cde3d32b245576a1c1b97c806d66751b750257899a8a43e7be97af394f405ce4",
+    "split": "validation"
+  },
+  {
+    "path": "reports/CODESPECT/2025-09-23-EVA-Coin.md",
+    "protocol": "eva",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-09-23-EVA-Coin.md",
+    "sha256": "11d45bafc04b582786f082493459c8d8add63141f4e3224ae5ded15d6151376e",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-10-01-BetterBank.md",
+    "protocol": "betterbank",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-10-01-BetterBank.md",
+    "sha256": "88ec3f3e68de9bc0a5dea5d5f4defa4c969fe7fb0b98c0ac39449324107d351d",
+    "split": "validation"
+  },
+  {
+    "path": "reports/CODESPECT/2025-10-17-Carina-Finance.md",
+    "protocol": "carina",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-10-17-Carina-Finance.md",
+    "sha256": "ee8b6675163998dd5c177ddf2683bcb95248ff555a6a432c3b707e1ecda827c7",
+    "split": "test"
+  },
+  {
+    "path": "reports/CODESPECT/2025-10-21-lstOlas.md",
+    "protocol": "lstolas",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-10-21-lstOlas.md",
+    "sha256": "d2468cf98eecd70888f83798ae92c98341328df42eb32d08e6cb7382ae8d5822",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-10-30-AlphaHYPE.md",
+    "protocol": "alphahype",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-10-30-AlphaHYPE.md",
+    "sha256": "242eadf26ceaa9f804b1f282175b10028f741a4663f146ee4947ee8af0f9fd39",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-11-07-Votex-LGT.md",
+    "protocol": "votex",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-11-07-Votex-LGT.md",
+    "sha256": "15790165c2fc7acb6b7c1b341e5b03573b3049f932facf8a8bf6698513a7a7a2",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2025-11-17-The-Vault-Liquid-Unstaker-V2.md",
+    "protocol": "the",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2025-11-17-The-Vault-Liquid-Unstaker-V2.md",
+    "sha256": "c42411c3342bc81c3eadb085f22899a8a0229a66a9524d3e39322f46f926b05f",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-01-05-Canopy.md",
+    "protocol": "canopy",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-01-05-Canopy.md",
+    "sha256": "88c93ed40fc3e07fdc69bf4ebafff2bc08d85cd0a568068d3e0c6d664559626e",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-02-04-Dutch-Protocol.md",
+    "protocol": "dutch",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-02-04-Dutch-Protocol.md",
+    "sha256": "1cd46c862194f1bd844a87d9dc4277186cf1d898712a4a38295b25cb4ea3be31",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-02-06-Aegis-DFF.md",
+    "protocol": "aegis",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-02-06-Aegis-DFF.md",
+    "sha256": "48a70f2e3b21e9527dd55de0de61e8e86cb5450cc691ba3bee85696f999aa934",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-02-09-Ignition-Fogo-Locker.md",
+    "protocol": "ignition",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-02-09-Ignition-Fogo-Locker.md",
+    "sha256": "5d156716e0db7803e81d4f4ac8093b884626d8ed32f87482e25de84d391bbf01",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-02-18-Maitreja-Staking.md",
+    "protocol": "maitreja",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-02-18-Maitreja-Staking.md",
+    "sha256": "0e27ca96d08136a3ca2de9713f48da1e0c544489ec60dbe4dea469a740e5335f",
+    "split": "test"
+  },
+  {
+    "path": "reports/CODESPECT/2026-03-23-Realms-Core-Attribute-Voter.md",
+    "protocol": "realms",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-03-23-Realms-Core-Attribute-Voter.md",
+    "sha256": "d3985f78512bd30b364a520bae88ce90d04fd64f3a6f99e81ea0c77d71bf50ec",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-07-02-Hyperwave-Sub-Account-Strategy-Framework.md",
+    "protocol": "hyperwave",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-07-02-Hyperwave-Sub-Account-Strategy-Framework.md",
+    "sha256": "ecfc77347355e24ae38b24b98d049e0d5378d43ff1a63ee15a38cca66a5e25d1",
+    "split": "train"
+  },
+  {
+    "path": "reports/CODESPECT/2026-07-03-Swell-ETH-Staking-Deposit-Bot.md",
+    "protocol": "swell",
+    "auditor": "CODESPECT",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/CODESPECT/2026-07-03-Swell-ETH-Staking-Deposit-Bot.md",
+    "sha256": "4434421781afacf39ad0166f6c83677308bd9cf8dcbbe5e43084419b895d6820",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-05-09-Ethernote.md",
+    "protocol": "ethernote",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-05-09-Ethernote.md",
+    "sha256": "fdef7e33138f1bae4027c04c2df4450887169ca77c05ef7e6843ee7782d025f8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-05-21-Bridges.md",
+    "protocol": "bridges",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-05-21-Bridges.md",
+    "sha256": "c35a5e157a07d36b201aeaf27f2ef8a3ef4aaba2516c30b015da6af1d0069f79",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-05-23-Ultimate Fantoms.md",
+    "protocol": "ultimate",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-05-23-Ultimate%20Fantoms.md",
+    "sha256": "389e11ba8d21d92984b33dc885d9548feb8d7f84f19c2a20ecb7aa81aa7b6cc9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-05-24-Reliquary.md",
+    "protocol": "reliquary",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-05-24-Reliquary.md",
+    "sha256": "165d7c812eed642973a6fb1ad5229fff5632069693ed8967f759798925fcdf9c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-07-27-NFTR.md",
+    "protocol": "nftr",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-07-27-NFTR.md",
+    "sha256": "6d6228893d5e2a513855753c97b8945d4d02f4cd423186559565a30a6db9e3a6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-10-02-NFTR.md",
+    "protocol": "nftr",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-10-02-NFTR.md",
+    "sha256": "d2f38ea1a881904559b9d5505b538babfd99b2a00e81e7e6bcc30121a59741c5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2022-10-24-GMX.md",
+    "protocol": "gmx",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2022-10-24-GMX.md",
+    "sha256": "f663538952bb5707e064447cfc32cc2b3c8bf31b4ed9a73da4f10b03588ba5f7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2023-04-08-NFTR.md",
+    "protocol": "nftr",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2023-04-08-NFTR.md",
+    "sha256": "723aa2f0f517b11a1bfd79af4b446bf38ef1d71c1d9903eb950d99798b6f6888",
+    "split": "train"
+  },
+  {
+    "path": "reports/Guardian Audits/2023-05-01-Key Finance.md",
+    "protocol": "key",
+    "auditor": "Guardian Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Guardian%20Audits/2023-05-01-Key%20Finance.md",
+    "sha256": "1bf4b21f509775136ddf11fd175a7420941c03719c41ea67cbe1ece00373318f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hans/2023-07-13-Meta.md",
+    "protocol": "meta",
+    "auditor": "Hans",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hans/2023-07-13-Meta.md",
+    "sha256": "0e0d92a11e5b34f894e96de58cd35ab49fb84c181653f2dde6fb182eaf3df2c6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2022-11-04-1inch.md",
+    "protocol": "1inch",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2022-11-04-1inch.md",
+    "sha256": "64c7466d228f0488b382d714078560c81141c10c81874aeae42eef9435e24ed7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2022-12-29-1inch.md",
+    "protocol": "1inch",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2022-12-29-1inch.md",
+    "sha256": "51f2a4a0d2f323d9cd9f36d1594c63d53bd08b4905d2504e74beaa196dba76f9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-01-17-Babylon.md",
+    "protocol": "babylon",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-01-17-Babylon.md",
+    "sha256": "49bb6e68dafec38d2a14edbf4cf86cea7eee1b719081e9ee85c3d2ecb97d6f4e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-02-27-PolygonZkEvm.md",
+    "protocol": "polygonzkevm",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-02-27-PolygonZkEvm.md",
+    "sha256": "ba4a48fc84ef1d8462cbad2d7a30090364aa89f1e626312b2db49391346979f8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-04-06-Bahamut.md",
+    "protocol": "bahamut",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-04-06-Bahamut.md",
+    "sha256": "836a942fe08bfbd4094409a623ea20966cca22bd9bfb2ec1e63d320b9338d06e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-04-14-Lido.md",
+    "protocol": "lido",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-04-14-Lido.md",
+    "sha256": "ea7f8083c690ccc61e3fb8a308dd300b5da21381a81314248c39e8d2aec3013d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-04-17-Astrolab.md",
+    "protocol": "astrolab",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-04-17-Astrolab.md",
+    "sha256": "6e38a296041759d9752ac8ba9ff44f5a10aa5901f5ba25361466ef989506f7e3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-10-02-Mantle.md",
+    "protocol": "mantle",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-10-02-Mantle.md",
+    "sha256": "fc9b43c4855dd5598716b0233ae5b4aa32b2a0485380fefaaf39743010a6f946",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-10-16-EigenLayer.md",
+    "protocol": "eigenlayer",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-10-16-EigenLayer.md",
+    "sha256": "0240899f0807988abf2c9ee7fa807dfc6c32f72fa6ab2628f7cc8ab2231c0efd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-10-31-Risc Zero.md",
+    "protocol": "risc",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-10-31-Risc%20Zero.md",
+    "sha256": "d1d5931f508ab41f351922d015813e166d2de353b3df682c8d823fdb439c433f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2023-11-06-Fungify.md",
+    "protocol": "fungify",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2023-11-06-Fungify.md",
+    "sha256": "9486f890059b6a72778994d57c78f2c0fccbd41626baec1c22406c1b5a82786e",
+    "split": "test"
+  },
+  {
+    "path": "reports/Hexens/2024-01-12-Persistence.md",
+    "protocol": "persistence",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2024-01-12-Persistence.md",
+    "sha256": "5509254233baf6e5743bf3d18d63a4ccb215bd139a2813a9897a80232ff2f50e",
+    "split": "test"
+  },
+  {
+    "path": "reports/Hexens/2024-04-15-Fuel.md",
+    "protocol": "fuel",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2024-04-15-Fuel.md",
+    "sha256": "1266d449b6910f2bab2dc972f96a86b58757cb7086dba896cdeb9dea419b626c",
+    "split": "test"
+  },
+  {
+    "path": "reports/Hexens/2024-07-22-Tokemak.md",
+    "protocol": "tokemak",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2024-07-22-Tokemak.md",
+    "sha256": "2623ddf096e239e51e9af28711ce367c7e5ddb44173dac48744b71c475c1a315",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2024-09-19-StakeWise.md",
+    "protocol": "stakewise",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2024-09-19-StakeWise.md",
+    "sha256": "d425a5a986c5a3c37b3c0db7b5e9adb01c6cc9e5f58c07ede5ef6caac95d68d8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2024-11-25-BasisOS.md",
+    "protocol": "basisos",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2024-11-25-BasisOS.md",
+    "sha256": "ad33823b7f28ce8dfc16eaeb544f8edb6ad6866fb05805dc855c2442fdca439a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-02-03-Rush-Trading.md",
+    "protocol": "rush",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-02-03-Rush-Trading.md",
+    "sha256": "4e66f598e8534089326aeac8acacbd7045dd558effa38f10d36fc1add3a505b9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-02-10-Train-Protocol.md",
+    "protocol": "train",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-02-10-Train-Protocol.md",
+    "sha256": "a2412873d7d4f4f388e1d24cc0099719210f1efa42f23d09a894ca75cd036837",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-02-18-AvaCloud.md",
+    "protocol": "avacloud",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-02-18-AvaCloud.md",
+    "sha256": "46dfe08e4a0daad872ada12447fce418b45c956548ee84c934eae1892062e13c",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Hexens/2025-02-21-1inch.md",
+    "protocol": "1inch",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-02-21-1inch.md",
+    "sha256": "69068fdda6fd2726847da76f3a3f5651457182636107ebc76ebbcc98ee05b16a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-03-17-Valantis.md",
+    "protocol": "valantis",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-03-17-Valantis.md",
+    "sha256": "b2b0a9bdde8773d40974ccee8a2bae0131e592259b6ec16d0b23484e24a8b82f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-04-09-AvaCloud.md",
+    "protocol": "avacloud",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-04-09-AvaCloud.md",
+    "sha256": "5add884805e68793d0e29faee1ae286286ce1b1d19dd33550c09cf0e6e8fb32c",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Hexens/2025-04-22-EigenLayer.md",
+    "protocol": "eigenlayer",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-04-22-EigenLayer.md",
+    "sha256": "7c3af8e026b29fc670bbb0ab2474fcee3cf203216a613f74029bf0a2569f24bc",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-05-26-Moonbound.md",
+    "protocol": "moonbound",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-05-26-Moonbound.md",
+    "sha256": "b32ac2277dc2bf3b759bca4499474991bcc48ecb2922f4a5f7b0140107b1c241",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-05-26-Zealous.md",
+    "protocol": "zealous",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-05-26-Zealous.md",
+    "sha256": "e4f63d598b4c6b5f786b5134c823cc718c6f0f58dd471c25d551d94af7b1dc57",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-06-10-Ufarm.md",
+    "protocol": "ufarm",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-06-10-Ufarm.md",
+    "sha256": "376ce3bc633412ba775c62be299ea114ff0a63dd9d6bee94319f570a0a4ea133",
+    "split": "train"
+  },
+  {
+    "path": "reports/Hexens/2025-14-03-Mintify.md",
+    "protocol": "mintify",
+    "auditor": "Hexens",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Hexens/2025-14-03-Mintify.md",
+    "sha256": "87305eb14c72d6790fddf959b4faa7874fc41066fa20038a44f04d9ecc9ad190",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Kann/2025-01-19-RWA.md",
+    "protocol": "rwa",
+    "auditor": "Kann",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Kann/2025-01-19-RWA.md",
+    "sha256": "c326b7b8816b24408c6d6666f7a394ae2aa42aed9d32438f1630c165c2552e2f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Naman/2024-08-07-Hyacinth.md",
+    "protocol": "hyacinth",
+    "auditor": "Naman",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Naman/2024-08-07-Hyacinth.md",
+    "sha256": "07385df234b806a9484bf1b91e3a337ed2a812a534320c0e8a68e2e8d87a2bcf",
+    "split": "train"
+  },
+  {
+    "path": "reports/Oxorio/2023-10-18-Lido.md",
+    "protocol": "lido",
+    "auditor": "Oxorio",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Oxorio/2023-10-18-Lido.md",
+    "sha256": "118e0c25665050d0c6c28795a5a2cfa4d82ff441a0b07e0af097a8c1279a40cc",
+    "split": "train"
+  },
+  {
+    "path": "reports/Oxorio/2024-01-19-Fathom Stablecoin.md",
+    "protocol": "fathom",
+    "auditor": "Oxorio",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Oxorio/2024-01-19-Fathom%20Stablecoin.md",
+    "sha256": "d8d61a37cc652c7bc070ddfeacabdb984c1de6247170bba2fdfe7718874b5171",
+    "split": "train"
+  },
+  {
+    "path": "reports/Oxorio/2024-02-06-Zunami ProtocolV2.md",
+    "protocol": "zunami",
+    "auditor": "Oxorio",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Oxorio/2024-02-06-Zunami%20ProtocolV2.md",
+    "sha256": "f02163968450d1e86c169a4fbfb2b8e49abcdcb95ddfdcc76045a10453d8fd6b",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2022-11-01-Yield Ninja.md",
+    "protocol": "yield",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2022-11-01-Yield%20Ninja.md",
+    "sha256": "26465d4139e4e3ad803096d9d1c4a719e8a8b99018ea25c6bbabc90d0fd83fec",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2022-11-01-Zerem.md",
+    "protocol": "zerem",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2022-11-01-Zerem.md",
+    "sha256": "3a786db5a54ab42432cbd88f3df8742f1ba39768517fa67eae42b30c1c972efc",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2022-12-01-Arcana.md",
+    "protocol": "arcana",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2022-12-01-Arcana.md",
+    "sha256": "af4b35f35b28bf43390025c2cd9ad2078139fce3bcdc8127079f3d4ce472867c",
+    "split": "test"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2022-12-01-Azuro.md",
+    "protocol": "azuro",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2022-12-01-Azuro.md",
+    "sha256": "bad9c129df9b2bf2be98d0c39ef61920c70b16b874f24127673463974cc745d2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2022-12-01-Cadmos.md",
+    "protocol": "cadmos",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2022-12-01-Cadmos.md",
+    "sha256": "af5e7e59ec796d4975c30f3f55ff32698ad02cc870dc3a0f9649be8a50bfacab",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2022-12-01-GMD.md",
+    "protocol": "gmd",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2022-12-01-GMD.md",
+    "sha256": "d7d6c79e0ae4cd07a812d4ca9f58f403047e6dc6a91759682037ab4bf4f9f5ed",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-01-01-Metalabel.md",
+    "protocol": "metalabel",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-01-01-Metalabel.md",
+    "sha256": "adc286d2a43c3328cca446e455c1a902cb67cbe873ba2d8f520419cf45c80acf",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-01-01-Mugen.md",
+    "protocol": "mugen",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-01-01-Mugen.md",
+    "sha256": "77fac08f8617d4910e760926451b89508178cd1cf6a4bc48d4dd01b58a3cd6b0",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-02-01-Azuro.md",
+    "protocol": "azuro",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-02-01-Azuro.md",
+    "sha256": "fd712ac6a8f2382f9308f9d4c0d13730982100d999497f7ba2ad7df8f7b374ad",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-02-01-Hypercerts.md",
+    "protocol": "hypercerts",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-02-01-Hypercerts.md",
+    "sha256": "955868b0106e8d44d6566c0019f8ad38c0a5fe5c4f22d2ea795151db2124b357",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-02-01-LizardStarking.md",
+    "protocol": "lizardstarking",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-02-01-LizardStarking.md",
+    "sha256": "4ef580303c3f674a96f7137e1cdc57bedb9bbb20ad74a1b68782c70542586ecc",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-02-01-Metalabel.md",
+    "protocol": "metalabel",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-02-01-Metalabel.md",
+    "sha256": "bf953f6f8551b5aac531ccd7ff0acadb894e649f3ff01b28365b6a4031b7b784",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-02-01-Parcel Payroll.md",
+    "protocol": "parcel",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-02-01-Parcel%20Payroll.md",
+    "sha256": "3372207393372773486347f7d85632bf39866fd21555dc8b7eace022a78d4945",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-02-01-Punk Bid.md",
+    "protocol": "punk",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-02-01-Punk%20Bid.md",
+    "sha256": "53816120b5ebc2e39c8e6354d545d2158afc242fb809addd63fcbcbcc684c10d",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-03-01-BearCave.md",
+    "protocol": "bearcave",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-03-01-BearCave.md",
+    "sha256": "03cd8a7dd5fb6d3175006e5a95603a021984d3d06ad30d35fbd02e754eb5be70",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-03-01-Rolling Dutch Auction.md",
+    "protocol": "rolling",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-03-01-Rolling%20Dutch%20Auction.md",
+    "sha256": "5cff64b1a767baaa07cb017200544dc007c9cff90d13f2d291872ffca6a5f5e6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-04-01-Florence Finance.md",
+    "protocol": "florence",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-04-01-Florence%20Finance.md",
+    "sha256": "4ccdcfe10db021ded0b9a85fd9c08469bc63235d51ccee223e471ce193bc7688",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-04-01-MoleculeVesting.md",
+    "protocol": "moleculevesting",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-04-01-MoleculeVesting.md",
+    "sha256": "2d229cdf5e6750a7560ea7ebc27caebe0d8c247e6eda3832886799698bda2359",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-05-01-Ambire.md",
+    "protocol": "ambire",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-05-01-Ambire.md",
+    "sha256": "776724595bb4baf9623689dc2b40d2e65a2b4e2b4df0223192deec277a721130",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-05-01-Babylon7.md",
+    "protocol": "babylon7",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-05-01-Babylon7.md",
+    "sha256": "7824294aeca3617aead70ce6c39ad11a05fb684f374d750cb07c5bd89495b90e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-05-01-Bloom.md",
+    "protocol": "bloom",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-05-01-Bloom.md",
+    "sha256": "c0b5e730dfa2dc92ac7cdc93bd149402d9da08c735b1f69e23a61b82c793221e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-05-01-IPNFT.md",
+    "protocol": "ipnft",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-05-01-IPNFT.md",
+    "sha256": "236c500d7ee494d79a9adc4752524a9b8c2062731bc3d317285c4708551b59fb",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-06-01-BearCave.md",
+    "protocol": "bearcave",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-06-01-BearCave.md",
+    "sha256": "29ee3ad2eead9f1d638844c0fe03345881e2aa4bf1a337a335abf2848d1ce8b9",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-06-01-NFT Loots.md",
+    "protocol": "nft",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-06-01-NFT%20Loots.md",
+    "sha256": "7d4027aa7f726787bc603171b659484bf02ba1e7e584a8e06bc7a51552fbd1a3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-06-01-Portals.md",
+    "protocol": "portals",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-06-01-Portals.md",
+    "sha256": "78ddda205c7cb06c9bb2f76943bdc092a36a66a2505a9469e1d62b82968fa164",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-06-01-Protectorate.md",
+    "protocol": "protectorate",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-06-01-Protectorate.md",
+    "sha256": "801705ec4af7cc2fd03b9782e8e77eec3e9a082811de7e81477954b428e144d4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-06-01-PunksBids.md",
+    "protocol": "punksbids",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-06-01-PunksBids.md",
+    "sha256": "93d6894dbf9fda6469d275cf64f2ec3c43d25e27014569fce8232e6508154d65",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-06-01-TopiaStaking.md",
+    "protocol": "topiastaking",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-06-01-TopiaStaking.md",
+    "sha256": "e67db6dbd0dc5f174b60a1da49a2c145fe5ec3d5f7d3d977c5326a28bce774e8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-07-01-Baton Launchpad.md",
+    "protocol": "baton",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-07-01-Baton%20Launchpad.md",
+    "sha256": "a25a4049e126c85628830b766473ef7a7eb65fed1d0b93baa69dbd4b6923e5c4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-08-01-1inch Plugins.md",
+    "protocol": "1inch",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-08-01-1inch%20Plugins.md",
+    "sha256": "3aa8b5099bfed728a92fcc8dd3cafeb92a3a4c9ede53e3356f3065c088caaf8a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-08-01-Smoothly.md",
+    "protocol": "smoothly",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-08-01-Smoothly.md",
+    "sha256": "05873b6ba3c58130d4aa0c422b8a4c32619ed4151585d4450d9525fa7294d073",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-08-01-WERC721.md",
+    "protocol": "werc721",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-08-01-WERC721.md",
+    "sha256": "b7f174160b3fbe96e288de8c917f2fd4a4a94465676dc0b60c16fdfd7e0d2293",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-08-01-gTrade.md",
+    "protocol": "gtrade",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-08-01-gTrade.md",
+    "sha256": "e8b8bf149924b1924c17839e226e23e4d4cb2f312f1d4f70feac94820f8aaec6",
+    "split": "test"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-09-01-Ambire.md",
+    "protocol": "ambire",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-09-01-Ambire.md",
+    "sha256": "075b385a18338ee5dd7b903b51ff686759130c9036def6353a6fc9efceaad3c2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-09-01-Lumin.md",
+    "protocol": "lumin",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-09-01-Lumin.md",
+    "sha256": "daedbad6f8f965a64a6de5f9656b2332a1d09bc03012ac44170144f0ad3a9790",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-09-01-MuseumOfMahomes.md",
+    "protocol": "museumofmahomes",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-09-01-MuseumOfMahomes.md",
+    "sha256": "866e32fa59bbfc5723657f937bfe472bc1ad6da5003208e0d6564d3f20b99586",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-09-01-Pino.md",
+    "protocol": "pino",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-09-01-Pino.md",
+    "sha256": "f2abedbba2f76eb5e0ffbe10105fd875decdb3b3a6abc69e027db08826d2bbf1",
+    "split": "test"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-09-01-SolidlyV3AMM.md",
+    "protocol": "solidlyv3amm",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-09-01-SolidlyV3AMM.md",
+    "sha256": "f3372b4b58cfa4759f4e47ab93733814f9fd4137c9e92431278943afe7848e87",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-10-01-Beam.md",
+    "protocol": "beam",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-10-01-Beam.md",
+    "sha256": "47ceeb54a2ff27de1a059fefbb1a9b59029c8430e6c9aa555f51104168e8ff6d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-10-01-Ethena.md",
+    "protocol": "ethena",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-10-01-Ethena.md",
+    "sha256": "3b98ef6e1214298966351dec9b93860222aea502430b85c7c844c25bcbbcb668",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-10-01-Florence Finance.md",
+    "protocol": "florence",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-10-01-Florence%20Finance.md",
+    "sha256": "db4e64dd93b4c26360a048b87b8889626236a52bacd3801a8d560028d9ea9197",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-Ambire.md",
+    "protocol": "ambire",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-Ambire.md",
+    "sha256": "ce5a65fa31a4139eb41983dd76790f02d01050905d72e44bfd3a16cf9b9bb980",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-NFTCapsule.md",
+    "protocol": "nftcapsule",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-NFTCapsule.md",
+    "sha256": "d33099da49950a908ecbbbe7173e604ba752854b880a9c2e49cb180c081eb1fc",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-Pirex.md",
+    "protocol": "pirex",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-Pirex.md",
+    "sha256": "69e3bc815795b371a60b8ca57598f97806526603344fd81d7225ebc9c462ead6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-Pump.md",
+    "protocol": "pump",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-Pump.md",
+    "sha256": "96d4f173abccf0ebae0dc1f65ba43aa6f5de42c7b58587a0812c0c5c1ad7094e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-TokenDistributor.md",
+    "protocol": "tokendistributor",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-TokenDistributor.md",
+    "sha256": "59419df5bb7ec9cf1cb7943a230e6babf93c5b1466d355b5536495f834140b20",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-WrappedElon.md",
+    "protocol": "wrappedelon",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-WrappedElon.md",
+    "sha256": "75c380aafed15f76b30ee7696b0501beac981c017932738c3e9a0e1f874f3f38",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-11-01-yHairVesting.md",
+    "protocol": "yhairvesting",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-11-01-yHairVesting.md",
+    "sha256": "3de6167b2af46fc30a00ee119917853a741ccc31805ade0164a5d6f7faf2001b",
+    "split": "test"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2023-12-01-veTenet.md",
+    "protocol": "vetenet",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2023-12-01-veTenet.md",
+    "sha256": "f0958232079237aae913e8c75c239961bca3616c841a682801e15ecf3e8032e4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2024-02-01-Catalyst.md",
+    "protocol": "catalyst",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2024-02-01-Catalyst.md",
+    "sha256": "2ae14aaeb8c2ba5df65c7dfbb34f5077a355521ddf84b2d9900e2b226abd96a4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2024-02-25-Ethena.md",
+    "protocol": "ethena",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2024-02-25-Ethena.md",
+    "sha256": "4e001f88add0b6f6e767cafdc20b32b33a8cb552af02438a693ff1d94c721e14",
+    "split": "train"
+  },
+  {
+    "path": "reports/Pashov Audit Group/2024-05-01-Ethena.md",
+    "protocol": "ethena",
+    "auditor": "Pashov Audit Group",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Pashov%20Audit%20Group/2024-05-01-Ethena.md",
+    "sha256": "3f514239e665832dc7d080b0a55f9650c4ff994b1e4c07d32fbd2ff6aec1d6d4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Recon Audits/2025-03-22-Apollon_Report.md",
+    "protocol": "apollon",
+    "auditor": "Recon Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Recon%20Audits/2025-03-22-Apollon_Report.md",
+    "sha256": "31a7608160b011dc6253610b6723e41165a6d47a3e940b3498a8a471c1cadcf2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Recon Audits/2025-03-23-Balancer_Report.md",
+    "protocol": "balancer",
+    "auditor": "Recon Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Recon%20Audits/2025-03-23-Balancer_Report.md",
+    "sha256": "fc20bb31b05244d929e6970c64855e10abc7d864343e8df961a72cbda1a43a85",
+    "split": "train"
+  },
+  {
+    "path": "reports/Recon Audits/2025-03-23-Kleidi_Report.md",
+    "protocol": "kleidi",
+    "auditor": "Recon Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Recon%20Audits/2025-03-23-Kleidi_Report.md",
+    "sha256": "8b119f39e948a30a091d8e8e2182877e0ffd3b4a7e217710f324f442a8b25fab",
+    "split": "train"
+  },
+  {
+    "path": "reports/Recon Audits/2025-03-23-Quill_Finance_Report.md",
+    "protocol": "quill",
+    "auditor": "Recon Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Recon%20Audits/2025-03-23-Quill_Finance_Report.md",
+    "sha256": "e951b8a0cd97b80aa66d19ec1cef02057a20025b27259c2cf41788a0ec0c944b",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Recon Audits/2025-03-23-bold-report.md",
+    "protocol": "bold",
+    "auditor": "Recon Audits",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Recon%20Audits/2025-03-23-bold-report.md",
+    "sha256": "72203013a1c217a1328c41b1c2ab57bddfc048ad3740a6b01caf9e6cc590a3a8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Shieldify/2023-07-27-PHIMaterial.md",
+    "protocol": "phimaterial",
+    "auditor": "Shieldify",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Shieldify/2023-07-27-PHIMaterial.md",
+    "sha256": "b57758992894ed8fc44eada38e17afdbaeda7be2a262950e96eed82717d00e05",
+    "split": "train"
+  },
+  {
+    "path": "reports/ThreeSigma/2023-06-06-leNFT.md",
+    "protocol": "lenft",
+    "auditor": "ThreeSigma",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ThreeSigma/2023-06-06-leNFT.md",
+    "sha256": "37ec1efaf4e40f0f8f91e0d2c2586a5badbee86c77f61a6c7546f63be847fa7c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2022-12-14-Vagabond Token Transmuter.md",
+    "protocol": "vagabond",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2022-12-14-Vagabond%20Token%20Transmuter.md",
+    "sha256": "4ed54919d50cc3e1e27b03943affa3d56cf77a0d9aaa88a269c6dad9d16c2f25",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2022-12-23-rysk UniswapV3RangeOrderReactor.md",
+    "protocol": "rysk",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2022-12-23-rysk%20UniswapV3RangeOrderReactor.md",
+    "sha256": "41426f99ce1e04827aad0d5c6848d4694c8beda11b2ee9b42e563d5009e4fa0b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-01-08-Ninja Yield Farming v3.md",
+    "protocol": "ninja",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-01-08-Ninja%20Yield%20Farming%20v3.md",
+    "sha256": "dc05d71665d9143e50da1c3fae7c71f87382c3b87196c009972c040f77228e07",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-01-19-Lyra Finance.md",
+    "protocol": "lyra",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-01-19-Lyra%20Finance.md",
+    "sha256": "8c26841ad5eeea6e08477d7acbee50b40e63eac34b6c82d346e98578c1118058",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-02-16-The Graph Operator Decentralization.md",
+    "protocol": "the",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-02-16-The%20Graph%20Operator%20Decentralization.md",
+    "sha256": "388097419c6226d6ede53331bbd1515610ddc51a685fa970165f8cc706e36db1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-02-20-Hats Protocol.md",
+    "protocol": "hats",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-02-20-Hats%20Protocol.md",
+    "sha256": "12e3def38c8a8a3ab7111a172b9fd15f390fe1c924fae3fadb70fa70f246b912",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-02-24-Satin.Exchange.md",
+    "protocol": "satin.exchange",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-02-24-Satin.Exchange.md",
+    "sha256": "7fc5a54295a8aecdbbbef8452e78881c7b7a2a13608585525a1df9fea2eb42fe",
+    "split": "test"
+  },
+  {
+    "path": "reports/Trust Security/2023-04-13-LUKSO LSP audit.md",
+    "protocol": "lukso",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-04-13-LUKSO%20LSP%20audit.md",
+    "sha256": "ebd2b62a87c1b1c233bee12418f9cb941276769a128c410b08f12ab4ba58efb1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-05-15-Brahma.md",
+    "protocol": "brahma",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-05-15-Brahma.md",
+    "sha256": "817415f65beb869f171e4e0b4c8f76778206247a2a0e61192aae5fd9bcc8943e",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Trust Security/2023-05-15-Timeswap.md",
+    "protocol": "timeswap",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-05-15-Timeswap.md",
+    "sha256": "a36f849e96de593b686b24631f7c12f0209e499c2fd0becdf6f8d3040077f3a4",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Trust Security/2023-05-23-Mozaic Archimedes.md",
+    "protocol": "mozaic",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-05-23-Mozaic%20Archimedes.md",
+    "sha256": "d36c59f887bbab5d1d366f87d5304ca6d685571996b216f4181ad19ab17812ab",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Trust Security/2023-05-28-Orbital Finance.md",
+    "protocol": "orbital",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-05-28-Orbital%20Finance.md",
+    "sha256": "89535d67df4a5dcc588e084c224d9428cef6c8e529601fdda366db8e8d3f9385",
+    "split": "train"
+  },
+  {
+    "path": "reports/Trust Security/2023-05-29-Stella.md",
+    "protocol": "stella",
+    "auditor": "Trust Security",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Trust%20Security/2023-05-29-Stella.md",
+    "sha256": "62e22e367494797f906264b29f9304944ca86f128a40b85481a12fee0189f233",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-02-01-splits-v2.md",
+    "protocol": "splits",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-02-01-splits-v2.md",
+    "sha256": "1c59bf76f1574def0c5ce9319b742d60115d73429d8bf1b685353612ec1adbeb",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-02-12-Dyad.md",
+    "protocol": "dyad",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-02-12-Dyad.md",
+    "sha256": "1219dafea7621f22b4001bc3ce0010d7c5cc48a988172963da3477675a7101f4",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-03-01-Sound.xyz.md",
+    "protocol": "sound.xyz",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-03-01-Sound.xyz.md",
+    "sha256": "16f140fce6c4094288ed55e5faa5b653bb6d1d223fc19ca04ea69f59be92299f",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-03-21-Alligator.md",
+    "protocol": "alligator",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-03-21-Alligator.md",
+    "sha256": "baa6c1aa9765247b35e8761a8968c6820ef123456cc478cbf894427b8b6d7853",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-04-12-Sound.xyz.md",
+    "protocol": "sound.xyz",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-04-12-Sound.xyz.md",
+    "sha256": "3b0416ec29ffbe3d056b318019541a7e5135b7c044d7e6c593c63d966d0da614",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-04-15-Hook.md",
+    "protocol": "hook",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-04-15-Hook.md",
+    "sha256": "b9d63f6406c2dbab3ebdad020b8bb8dfd90f6bb419b4d2cd525e52816d6ab7ae",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-05-01-Sentiment-0x-Aura.md",
+    "protocol": "sentiment",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-05-01-Sentiment-0x-Aura.md",
+    "sha256": "7849ee6145435a1e79e37d25c499ff7a63f49ac9f3eb4b52b34c4ad8e0d66295",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-05-12-OptimismGovernor.md.md",
+    "protocol": "optimismgovernor.md",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-05-12-OptimismGovernor.md.md",
+    "sha256": "f8808b967d4f1a0b533eed1e8697892bc8b96e750d3e680939698a9657a454b5",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-05-26-StakeDao.md",
+    "protocol": "stakedao",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-05-26-StakeDao.md",
+    "sha256": "0e94a076a9078d348eec1bd648ebb58141dd764c801a519f7e5b26dbd4db021b",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-06-01-Dhedge.md",
+    "protocol": "dhedge",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-06-01-Dhedge.md",
+    "sha256": "a1923a16e65b339b0944a3f924e05b738e2c285a73bf2fea41326bada28e870b",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-06-01-alongside.md",
+    "protocol": "alongside",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-06-01-alongside.md",
+    "sha256": "32180d405ec159f037e57e0c5f73c7a3eb8b7a562c3b7d0616d36ebf8dc847e9",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-06-23-OlympusDAO.md",
+    "protocol": "olympusdao",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-06-23-OlympusDAO.md",
+    "sha256": "2491d3613dd3094a9b46cba5ec4f0eb2d3e65f1ab7d185b734306fd06e4faeb1",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-09-01-obol.md",
+    "protocol": "obol",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-09-01-obol.md",
+    "sha256": "74e54c8354eea07675f17a43669bd670142413fd3a548033be30c728af8f00b4",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-11-01-StakeDAO-Onlyboost.md",
+    "protocol": "stakedao",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-11-01-StakeDAO-Onlyboost.md",
+    "sha256": "3713a6bd73797c30ef07054a0d07a980d267a6f9b9d163d1cdb68f4901db10f8",
+    "split": "train"
+  },
+  {
+    "path": "reports/ZachObront/2023-11-01-fungify.md",
+    "protocol": "fungify",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-11-01-fungify.md",
+    "sha256": "4dc5afac06aa5209abcfe36150726452a18822175a7bf6f583e3869d3cb68314",
+    "split": "test"
+  },
+  {
+    "path": "reports/ZachObront/2023-11-01-splits-oracle.md",
+    "protocol": "splits",
+    "auditor": "ZachObront",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/ZachObront/2023-11-01-splits-oracle.md",
+    "sha256": "091f8edb2bde2bfd0973aaa68aba27ccd4999f92322da9169580fc3bddc53abd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2020-07-21-Plutus.md",
+    "protocol": "plutus",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2020-07-21-Plutus.md",
+    "sha256": "52ca038355b8d72ba32292c86f7d8291dd8c97bb4d978fb88b90ac3a486b7f41",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2020-12-04-Bondly.md",
+    "protocol": "bondly",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2020-12-04-Bondly.md",
+    "sha256": "e04f92fdfeaa457a7f4e645e56cd3e30622fe1891c0342ce02f7bb6cd3d39a4b",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2020-12-21-Nimbus.md",
+    "protocol": "nimbus",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2020-12-21-Nimbus.md",
+    "sha256": "e24060bf5e648b818bd0dfade6d90cda653bf04a0778d420cb00521565280617",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-01-14-Nimbus.md",
+    "protocol": "nimbus",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-01-14-Nimbus.md",
+    "sha256": "0bd4251e826e86a3db222687d7e5492828beef974a13d2b047df6efbed690f71",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-01-16-Nord Finance.md",
+    "protocol": "nord",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-01-16-Nord%20Finance.md",
+    "sha256": "274fe3ed6a3dacb85a08321a1641d1528d6130a70ce4c85843af02da756ffd42",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-03-23-DeltaHub.md",
+    "protocol": "deltahub",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-03-23-DeltaHub.md",
+    "sha256": "4e2ca25881d4acc7eb46cebe19305e75ea1ccdbf0783cd83a1c4dabd45fe497b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-03-23-Mogul.md",
+    "protocol": "mogul",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-03-23-Mogul.md",
+    "sha256": "f69ab622bc174c6b647be3d1ba893f9a5b83bcadb47cd48f44d1349b88030b74",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2021-03-24-Sheesha.md",
+    "protocol": "sheesha",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-03-24-Sheesha.md",
+    "sha256": "a50b19249b6fe1df145c029bc055243b956e11cd583205a1ed8683af3418b448",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-04-01-AllianceBlock.md",
+    "protocol": "allianceblock",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-04-01-AllianceBlock.md",
+    "sha256": "8b0780b4f7c4d60148543d0eadaa62014ed660b90f33cca7f67d419749f1c1ee",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-04-07-Saito.md",
+    "protocol": "saito",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-04-07-Saito.md",
+    "sha256": "2e06139de9f6c933bcf6eaf8d8a5182a70c4940a055de8df0dcbf2d9304f2ced",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-04-22-ZeroDex.md",
+    "protocol": "zerodex",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-04-22-ZeroDex.md",
+    "sha256": "8dbfaca40029616b22572fbdb7ced08095205f15a65cbc9fc79cc7f7a68d7590",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-04-29-ArGo.md",
+    "protocol": "argo",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-04-29-ArGo.md",
+    "sha256": "ca227a54e4566b464fac5e38e182e48c2f0aafff3d51e2e961f45df7debd6fec",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-02-Hypersign.md",
+    "protocol": "hypersign",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-02-Hypersign.md",
+    "sha256": "feab97452500e853002059d5c9adf55d86cdd18d82072ec94ad4a3982022006f",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-02-Wasder.md",
+    "protocol": "wasder",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-02-Wasder.md",
+    "sha256": "1f301d86bc8b7b12628795230c672b957a273e55d74b74e0cc3ece3efa16b821",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-06-Anh.md",
+    "protocol": "anh",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-06-Anh.md",
+    "sha256": "839b933ee5d9259347d6cdc8fa9b46471d64f0cecb390468d74008a9f9e6df4c",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-06-Cross Pool.md",
+    "protocol": "cross",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-06-Cross%20Pool.md",
+    "sha256": "8344f981571fb6504746b8470c5a2d4dbc42b959512a3202563b0bfc217930fb",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-06-Shield Finance.md",
+    "protocol": "shield",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-06-Shield%20Finance.md",
+    "sha256": "6453c093cf74ea516f18b641c7130f7fef24f18bdd6fd8101e57789161bbbdfe",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-13-Unmarshal.md",
+    "protocol": "unmarshal",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-13-Unmarshal.md",
+    "sha256": "55f6c073369d2519694a59eae124fb6dc54eb19e4d1c33c5dd8ba49cd1011470",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-21-DAOventures.md",
+    "protocol": "daoventures",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-21-DAOventures.md",
+    "sha256": "c8b7c5e13e524ae5d3996b4ef4e45b4177685c56df402717a2f57b491050e166",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-21-EqiFi.md",
+    "protocol": "eqifi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-21-EqiFi.md",
+    "sha256": "231bcbf2f89a5232e27b77a839468db95b938888b31e4d1c72de64f43291599a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-25-pStake.md",
+    "protocol": "pstake",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-25-pStake.md",
+    "sha256": "7a7feccb5c1bc3618498220684e4ca8f02a8e460eec01d51120cb52a086df4da",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-27-Ellufa.md",
+    "protocol": "ellufa",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-27-Ellufa.md",
+    "sha256": "9a0460b4ba21fbbe540cf9d7369f12d2ebe18e0b3b1357f85dc077a9d800f3cd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-05-27-Pandora.md",
+    "protocol": "pandora",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-05-27-Pandora.md",
+    "sha256": "bc93753315de29b77fa0a61624544a63bbacc547aa13c52267db3f53680faeeb",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-03-Crowny.md",
+    "protocol": "crowny",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-03-Crowny.md",
+    "sha256": "1e05d42c8cda159a599001d318c6e369a120e9e0ca75c7851b842439e944c805",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-08-BSCPad.md",
+    "protocol": "bscpad",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-08-BSCPad.md",
+    "sha256": "7a51fff819957cd826fff204847cafff754b2390418d2f4aa259c69085c1f474",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-08-blockbank.md",
+    "protocol": "blockbank",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-08-blockbank.md",
+    "sha256": "9b1ffb83293014ae1d7e956feb44b7dc989da90570a3534445415bc479c8cd05",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-12-iTrust Finance.md",
+    "protocol": "itrust",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-12-iTrust%20Finance.md",
+    "sha256": "6ee963566efad09cd5b523eba8eb694d35bf246c76f97aabcc4545816f8351b7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-14-Impossible Finance.md",
+    "protocol": "impossible",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-14-Impossible%20Finance.md",
+    "sha256": "3466cc7bd4d2b545af4dcb76eef6fc7cf370a370ab892f87e308f921cefc0b62",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-14-Paid Ignition.md",
+    "protocol": "paid",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-14-Paid%20Ignition.md",
+    "sha256": "afc0fcc9429a802ac33218eae2d12993cddac29c55018fe4fca473698bb88dd3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-19-Sentinel.md",
+    "protocol": "sentinel",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-19-Sentinel.md",
+    "sha256": "119b0cb23ce74c6dc75dbaa7485e2d0b32023a65a1f947a615497cd632bae02a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-23-Shapeshift.md",
+    "protocol": "shapeshift",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-23-Shapeshift.md",
+    "sha256": "1761da729e13ed21ffa4a75a484584963ca60a660893aba7ebe23a07a4fd3fae",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-06-26-Credmark.md",
+    "protocol": "credmark",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-06-26-Credmark.md",
+    "sha256": "d07d7bd0f61215a810fae2fa680e42da08479b78650fc972217133871404d1d1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-02-ArGo.md",
+    "protocol": "argo",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-02-ArGo.md",
+    "sha256": "d691248048a8cc9b49fbb63fcb453d7723d83122dea57bffc7e75f3328744313",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-02-Pontoon.md",
+    "protocol": "pontoon",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-02-Pontoon.md",
+    "sha256": "ea4fecf8d319aa7e0f358d55b193fb33231b848b311bb3c6a8df273a1f7c4ac7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-07-Polars.md",
+    "protocol": "polars",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-07-Polars.md",
+    "sha256": "2e15f132eb872004ee1b92631a8fccf64707f1e8744d1007ce334b3be4a41ee5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-09-Triall.md",
+    "protocol": "triall",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-09-Triall.md",
+    "sha256": "a328d702818b9d1f9a3cf847b570830abc8b6e985711a387f5826a3a9f3738e8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-12-DOTFinance.md",
+    "protocol": "dotfinance",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-12-DOTFinance.md",
+    "sha256": "46f98d85588dfc852d704ad3ac9118c0c168f6fb8911d349d8a6f4473bf73efe",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-21-ITrustFinance.md",
+    "protocol": "itrustfinance",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-21-ITrustFinance.md",
+    "sha256": "a7813174e45dd551c0bb898e43a33d79449502a4799cbc94805e24ae25bb40c5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-23-Polars.md",
+    "protocol": "polars",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-23-Polars.md",
+    "sha256": "68978f3280b5fe2bea89b1d2c0af08eeb5f78b3a8d67c246344eba030101cd96",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-07-30-Unvest.md",
+    "protocol": "unvest",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-07-30-Unvest.md",
+    "sha256": "49549c94ff236e75fe27841ee639f1055b8d5373037d6419a5530f6461def87e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-08-06-Mint Gold Dust.md",
+    "protocol": "mint",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-08-06-Mint%20Gold%20Dust.md",
+    "sha256": "5371084675ea403e9728866bf384c66c25b33e9bedf06d95e9e320efaca29ec7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-08-19-RUSD.md",
+    "protocol": "rusd",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-08-19-RUSD.md",
+    "sha256": "75c1fb35c48d89b59fab276de87a05716c5c960c6939a1a75ad95f1ac320d67c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-08-25-FNDZ.md",
+    "protocol": "fndz",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-08-25-FNDZ.md",
+    "sha256": "b2d22e37fae51dbf3805e502460a6dac463e14b03efff2687e7aa3ccd8f0a067",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-08-27-LYOPAY.md",
+    "protocol": "lyopay",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-08-27-LYOPAY.md",
+    "sha256": "80ea90e7c49512248fd385ff104e473372cb16a36fcc1e5cacfdcf97c3789ef1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-08-30-Shoyu.md",
+    "protocol": "shoyu",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-08-30-Shoyu.md",
+    "sha256": "e38414f8d0b94bb411891a16e56db54311479479f15bd033cdf40d75dd19c9c8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-02-IXS.md",
+    "protocol": "ixs",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-02-IXS.md",
+    "sha256": "096c2c60595b4b453d56e9db751b2d1f0c24fd2ab9856c6e65b7540512305768",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-03-DomFi.md",
+    "protocol": "domfi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-03-DomFi.md",
+    "sha256": "263d75629ce73e384d3cccc890a0ce5f4ee5f2deae37806578294ce010264852",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-03-UNO.md",
+    "protocol": "uno",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-03-UNO.md",
+    "sha256": "f52c388f9a10cadff0805b1fc373e061d581a7e56717ddcfe0c4dbe7f6610ac7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-07-Saffron.md",
+    "protocol": "saffron",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-07-Saffron.md",
+    "sha256": "7eadff450abe510d5a1e3e84f57db1f3e9341ec703f13db1771d8c0efa7c438b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-08-Basilisk.md",
+    "protocol": "basilisk",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-08-Basilisk.md",
+    "sha256": "9b934bf5169ecdb22fa7bf7e331fd868f29ad572a30bfd6ef6ba2e7e5552fcc1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-16-DeBridge.md",
+    "protocol": "debridge",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-16-DeBridge.md",
+    "sha256": "ddf38da564a1710f97c504b61140d2dc69f630d98ac3615ca1873987e3bab9ec",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2021-09-21-Quadency.md",
+    "protocol": "quadency",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-09-21-Quadency.md",
+    "sha256": "c8885c90b2f73f652645ed975de4c858df458e110f06a2553b16b45d8477868c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-10-05-Raiinmaker.md",
+    "protocol": "raiinmaker",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-10-05-Raiinmaker.md",
+    "sha256": "3f544edc0cc71e0ff96eafd51e0029b52c53846bc8ee4621ff94211cd8e12e11",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-10-07-Gamestation.md",
+    "protocol": "gamestation",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-10-07-Gamestation.md",
+    "sha256": "3e6e949667d8cc806b1048b33d1b5ef95287eea29a1bc42399d2d1bc4db44f02",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-10-13-Gamestattion.md",
+    "protocol": "gamestattion",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-10-13-Gamestattion.md",
+    "sha256": "e6960bdbecb90f52df594ad8d2a50d97aabdef0decc9c976c006c59eb0400a3d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-10-15-MIMIR.md",
+    "protocol": "mimir",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-10-15-MIMIR.md",
+    "sha256": "39bbd71caaa9929fe69f33514b0b571beb89578a71fc3873570ad858b5ebd2c1",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2021-10-25-Escrow.md",
+    "protocol": "escrow",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-10-25-Escrow.md",
+    "sha256": "17f0e61f6688992266bc936485edb0b86b2ca043ec1b1f70e85105ad9947590a",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2021-10-25-JustYours.md",
+    "protocol": "justyours",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-10-25-JustYours.md",
+    "sha256": "983164481f0c902c7d4a08e07090890b114367b5a044b9daacf2d7f42798551a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-11-01-Seedify.md",
+    "protocol": "seedify",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-11-01-Seedify.md",
+    "sha256": "0f59fc348b99d76a98ab152f44bf5cd1dabbf2421ab6d8f87e7afab51757d072",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-11-01-TrustPad.md",
+    "protocol": "trustpad",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-11-01-TrustPad.md",
+    "sha256": "0672bd0b9f57973f2559bb1f8a6acfab0afb2a9ab55eaa091bac7f5dd8bee506",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-11-02-ZeroSwap.md",
+    "protocol": "zeroswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-11-02-ZeroSwap.md",
+    "sha256": "335e8de9d0a047dff3b06f68b740b9d05ac6cba2c38f158d2424183494ba62d2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-11-03-Railgun.md",
+    "protocol": "railgun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-11-03-Railgun.md",
+    "sha256": "6dfa72e4be6db03a766bd65991e6b0b99d6a60ecb738b4fac0ee6b8fa8405bd9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-11-15-milestoneBased.md",
+    "protocol": "milestonebased",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-11-15-milestoneBased.md",
+    "sha256": "970f52f142f20ea46a657c8f932534585d9f285777a149e0fe14665defa8a9a0",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-11-23-Railgun.md",
+    "protocol": "railgun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-11-23-Railgun.md",
+    "sha256": "409683ab249beff04bdc50db1d5d684584eff2b6002a482ae01868a27ea77bb6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-02-GovWorld.md",
+    "protocol": "govworld",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-02-GovWorld.md",
+    "sha256": "9611069d69613bab790d13827f4f042226283d1271084812c49268f8f41e2ac9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-06-Teneo.md",
+    "protocol": "teneo",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-06-Teneo.md",
+    "sha256": "7d1831dd2f0eb829146d1885830c3698c8735463b4c3547a797a297e9e263fb1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-09-SpoolFi.md",
+    "protocol": "spoolfi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-09-SpoolFi.md",
+    "sha256": "cdaf9d81399945128b6527bfb143f14f7f586b20018a0d20929bd331da510720",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-14-StampsDaq.md",
+    "protocol": "stampsdaq",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-14-StampsDaq.md",
+    "sha256": "ccdc70a943b6277a8f4b11ce791a168b754540a588a856f26a69e3ec1dd35f8e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-15-GainDAO.md",
+    "protocol": "gaindao",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-15-GainDAO.md",
+    "sha256": "ba2bdc4a312dba363f4ee304d786a3e9e09adfd8d46cbc77e42f9d26d184ed6b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-20-Battle Saga.md",
+    "protocol": "battle",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-20-Battle%20Saga.md",
+    "sha256": "0a892fdaff58eba1143ad63e82bd6e635a2a63fcee2fd152bd58843bf2da10a6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-29-Rainmaker.md",
+    "protocol": "rainmaker",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-29-Rainmaker.md",
+    "sha256": "b1c2d166b7e3f7e200b924d55cd81f01ea70aa228a9aea0d71faa7a92b39482c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2021-12-31-Stargate.md",
+    "protocol": "stargate",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2021-12-31-Stargate.md",
+    "sha256": "7f3d2bb4dee1a2416be8c41579deb68fe8c09d82332452eeb9962515323196cd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-05-GFC.md",
+    "protocol": "gfc",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-05-GFC.md",
+    "sha256": "ca812743b5c63aed2e65b91fc47a3a1ad5d271c7dd01071a8d4ca0f6aadc23ac",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-05-Yeti Token.md",
+    "protocol": "yeti",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-05-Yeti%20Token.md",
+    "sha256": "af2fea65c1ac28cf53811e7d3e1fe7dd9a662c4fd9e886298768ed3fa034b51d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-07-Shapeshift.md",
+    "protocol": "shapeshift",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-07-Shapeshift.md",
+    "sha256": "259554d17a9f4106dad8bc4a8c41bbeb65432dfc3338b05662c36d90b1a92486",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-17-DeHorizon.md",
+    "protocol": "dehorizon",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-17-DeHorizon.md",
+    "sha256": "f1e193b60a8a56c6e54ce1357bedd61ba26b9472a1efb7ebd6fa76b79599fb01",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-19-DAMAC.md",
+    "protocol": "damac",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-19-DAMAC.md",
+    "sha256": "5b658a4f3a8546b36c4315700c3610c7ff5bbe3bd83a73364b42fe7bafef748b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-21-Bloktopia.md",
+    "protocol": "bloktopia",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-21-Bloktopia.md",
+    "sha256": "71b44f4ec9e24f5ec6837a47d394d41e730a4a20d275a0c21399bf9f57c9c5d8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-26-Battle Saga 2.md",
+    "protocol": "battle",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-26-Battle%20Saga%202.md",
+    "sha256": "319d242d00fcd578a1e820c29fdfaaf8caf26e102692aad9d281b78e230ae421",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-01-26-Metarun.md",
+    "protocol": "metarun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-01-26-Metarun.md",
+    "sha256": "c6ef0dfa74172248d8678d62aec736c31493493e9b5e8aea3ec52de8b837d0a9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-02-08-Symbiosis.md",
+    "protocol": "symbiosis",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-02-08-Symbiosis.md",
+    "sha256": "bfad21b2447880fd89eed05cbfa1ce9d051d1bb1dd98b7c67d30ebd394d1eaa4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-02-16-CBWC.md",
+    "protocol": "cbwc",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-02-16-CBWC.md",
+    "sha256": "daae3284ed76f9ce222ff1bba1de864c8ca56111d6bf2a9a107523123e1d8939",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-02-27-CWBC.md",
+    "protocol": "cwbc",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-02-27-CWBC.md",
+    "sha256": "3e5a7fe0da6c43657d6e4cadef1cc93da21e1d7670b0d63577d6a3709b78a354",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-06-Radiant Capital.md",
+    "protocol": "radiant",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-06-Radiant%20Capital.md",
+    "sha256": "4ea75baed7dc6c81aa8028f1b7c23b02f78952d688ecaf996e2832535d78cd32",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-07-SXNetwork.md",
+    "protocol": "sxnetwork",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-07-SXNetwork.md",
+    "sha256": "da057d6debdfee77f2e963607f1b43acb22a49a79fcc55ed95d3f2aabc16fed0",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-11-LYOpay.md",
+    "protocol": "lyopay",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-11-LYOpay.md",
+    "sha256": "b0ea8d35c3f6a983817ccdbb0750cf272c473859bc39ecbd969c06bd4709e47a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-16-Thetanuts.md",
+    "protocol": "thetanuts",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-16-Thetanuts.md",
+    "sha256": "b5dbc4116983a0447b65f71faf2a48d8550f9305be3b368b34d3db827311ffea",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-21-LayerZero.md",
+    "protocol": "layerzero",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-21-LayerZero.md",
+    "sha256": "a6e2fade3aeb7767e74f1c15d23feab7c239be7f76e62e4c21f293c662d9092c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-23-FNDZ.md",
+    "protocol": "fndz",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-23-FNDZ.md",
+    "sha256": "12bb32c737011445e5c1263b6a159c103b8f977bccb5569482a5686c4f29b5df",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-23-Predy.md",
+    "protocol": "predy",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-23-Predy.md",
+    "sha256": "47b91d6162bfe44a645c2f2187035b0227ccd3e137d00c78b6e11ca616358607",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-28-Fox Yieldy.md",
+    "protocol": "fox",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-28-Fox%20Yieldy.md",
+    "sha256": "ce79992d73344ffcfd20e6328d1739923c12dfc1530f643ac4f2d02cc5ef1df9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-28-Wonderman.md",
+    "protocol": "wonderman",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-28-Wonderman.md",
+    "sha256": "e7d7883d5186b43898e10f881a3e50e44efb136af3c7de587147b921895802ce",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-03-30-Spool.md",
+    "protocol": "spool",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-03-30-Spool.md",
+    "sha256": "960d4f43a62d5f69f6b404b16d6808609f4359040988a0efab0907cf55610296",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-04-12-Shyft.md",
+    "protocol": "shyft",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-04-12-Shyft.md",
+    "sha256": "8f8aa0250a88f01b08c9e4d6b6236c433292209fc8a4775bd2fe10c1abcc94dd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-04-20-Railgun.md",
+    "protocol": "railgun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-04-20-Railgun.md",
+    "sha256": "a8a6abbfaf842685cbdd227db1ead0133ddbadc1d3fd4672a046473dab7dac6c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-04-20-Wombat Exchange.md",
+    "protocol": "wombat",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-04-20-Wombat%20Exchange.md",
+    "sha256": "aa78091244ba74aa61738295a4bca3a210ff20e8533402ccde3f762d77eaa4bc",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2022-04-21-DomFi.md",
+    "protocol": "domfi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-04-21-DomFi.md",
+    "sha256": "9770bbf365493b133707b1602093548fb7895a0c986317a5bafd20d09d410705",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-04-21-RAIL token.md",
+    "protocol": "rail",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-04-21-RAIL%20token.md",
+    "sha256": "7d67a49fc78f75dd55410dca2345d7fabdb810444af55066c82356cbf1d42ef0",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-05-16-Unique Club.md",
+    "protocol": "unique",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-05-16-Unique%20Club.md",
+    "sha256": "dc9726e9e788f47421484b6a5afbe4a6ec012827f63c1b0aa53c3374ed29a986",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-05-18-BridgeNetwork.md",
+    "protocol": "bridgenetwork",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-05-18-BridgeNetwork.md",
+    "sha256": "b545c600bc288ac3958b4e085299492081dfd41e4fd24d7fdc35b3485b08fece",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-05-26-SpiritSwap.md",
+    "protocol": "spiritswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-05-26-SpiritSwap.md",
+    "sha256": "7c9858588280a68ae9ec3bd439ca6f9fdc13dee1b1866a56082aa39ebb9e6206",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-05-30-Partisia.md",
+    "protocol": "partisia",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-05-30-Partisia.md",
+    "sha256": "95dc3757caccf36fc5539d0fc4c0ff4c21a9d587b42a780c2d1b4916f3629256",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-07-1Inch.md",
+    "protocol": "1inch",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-07-1Inch.md",
+    "sha256": "57d16994a431d925986ca5a74f2edecca805cc53492bac502adb072c2384e13e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-08-Yield Farming.md",
+    "protocol": "yield",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-08-Yield%20Farming.md",
+    "sha256": "ae72e72b9e88b6482129a7a3c8d941ea44de130e320b2b71d9f08329e13d35e5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-10-TrustSwap.md",
+    "protocol": "trustswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-10-TrustSwap.md",
+    "sha256": "4eb2dd6b63156c9e36ec47ac785407503d0874150dbfab3fa90f691d72a84b05",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-15-FNDZ.md",
+    "protocol": "fndz",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-15-FNDZ.md",
+    "sha256": "3b3e9f337f4da3bca887580f19129fb9320de46b87b50f6b3878d81edae3501e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-16-Sqwid.md",
+    "protocol": "sqwid",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-16-Sqwid.md",
+    "sha256": "09f8cff4403fd8228847d03fa93e46353d55860b8f48f70892c70bec6912a8ca",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-16-Unifarm.md",
+    "protocol": "unifarm",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-16-Unifarm.md",
+    "sha256": "cc20a16f89c6797a41919641508d805377cbecf96c1f09868f613e075cefae6a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-24-ArtMeta.md",
+    "protocol": "artmeta",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-24-ArtMeta.md",
+    "sha256": "539b985f2b87fea1b40c7414e4a1d64a37815f03a9ddf82935ec919b1187793b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-27-Unimex.md",
+    "protocol": "unimex",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-27-Unimex.md",
+    "sha256": "44ef503e5294209857294deaf727487c9a3c8089c028bd56034a9c7f94843201",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-06-29-Metropolis.md",
+    "protocol": "metropolis",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-06-29-Metropolis.md",
+    "sha256": "43488fa48442ed62ee0dc85f9f015f8be5457401c6e14ca8557128fcabbf56c9",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-05-Made for gamers.md",
+    "protocol": "made",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-05-Made%20for%20gamers.md",
+    "sha256": "c36c235f3c1668a3a432b74dd27b7c730e5b0b5a09cf162bf82818721bcd409f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-08-StablR.md",
+    "protocol": "stablr",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-08-StablR.md",
+    "sha256": "58eb1767b88bd43382ddf0025a0c7b25595164aa122fb29790855da1f7794be1",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-12-Adrastia.md",
+    "protocol": "adrastia",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-12-Adrastia.md",
+    "sha256": "fc6243f81a9919e121013314f816646710bdf75a3c0907a10ea10f5e622a45f2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-13-TokensFarm.md",
+    "protocol": "tokensfarm",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-13-TokensFarm.md",
+    "sha256": "49390294d3c8efdca654d117fbded19a76a37550c6c90b4264ab010cff930b11",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-13-Umami.md",
+    "protocol": "umami",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-13-Umami.md",
+    "sha256": "7ca7f5e56047279f0457d8817ee9cf81c86b17f9d0fb3668f15a7d886f0fe1f9",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-27-Gumball.md",
+    "protocol": "gumball",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-27-Gumball.md",
+    "sha256": "028bd1c891122d65a9e514149008b09059ccb75cf06f5fc4c709a45b8672d179",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-07-28-Fractal.md",
+    "protocol": "fractal",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-07-28-Fractal.md",
+    "sha256": "a0214ad9422ccd1d849eee36f7eac88455d0e46be41dd67a0ae787e5f42f3eda",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-05-1inch.md",
+    "protocol": "1inch",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-05-1inch.md",
+    "sha256": "90f6b1ae0e39f5e1e0762cc82078c8cdb39589edd127736932f4873472b63a15",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-07-Boba.md",
+    "protocol": "boba",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-07-Boba.md",
+    "sha256": "c3afd7dfa510fe8b86eea0e2cb7b7f501bee5ee2edf07d4ef5f1d24ef55d3cdb",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-08-SharkSwap.md",
+    "protocol": "sharkswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-08-SharkSwap.md",
+    "sha256": "4dc3d4a898a837e4c22528dd87878b2fcd546b96fd6dbff376ee59bed1617358",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-08-TrustSwap.md",
+    "protocol": "trustswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-08-TrustSwap.md",
+    "sha256": "127fb1e2f49990afe73144dc67df8be485da1411b9ee28f5364aaa906ef39339",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-17-Magic Yearn.md",
+    "protocol": "magic",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-17-Magic%20Yearn.md",
+    "sha256": "4f97009867a492d391bf0067a5a631041f90ee86d164c8d9895847ca393bdf26",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-25-Boba Network.md",
+    "protocol": "boba",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-25-Boba%20Network.md",
+    "sha256": "4869b0a101a51642239b354fa2b43d29645e5ee47d957f68c08cd68dd7e3d57f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-08-25-Boba.md",
+    "protocol": "boba",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-08-25-Boba.md",
+    "sha256": "9b0dc1881756442752bfb98806bd4376a5106ae4a3e00b4c40256f351abee1e7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-07-Umami .md",
+    "protocol": "umami",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-07-Umami%20.md",
+    "sha256": "5549f605f9439045b8c2024490e8bb7112edfbc34e935a569cce9536a2649a45",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-14-RAILGUN.md",
+    "protocol": "railgun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-14-RAILGUN.md",
+    "sha256": "90bcec724ebda96ffdae843d28c3ce4c2b7149199958fbe9efa5fa9f979e94c9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-16-TokensFarm.md",
+    "protocol": "tokensfarm",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-16-TokensFarm.md",
+    "sha256": "5c9a331e40a7577a757f0731ec438ae11e6c33e0bd00db4e765dc37703820263",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-16-Umami .md",
+    "protocol": "umami",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-16-Umami%20.md",
+    "sha256": "3aaafca1c68e5811ee9f4f3b98fb362bf5c6ae51d806e40d5c2087e99dd7344f",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-17-Adaswap.md",
+    "protocol": "adaswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-17-Adaswap.md",
+    "sha256": "8761fac00dbeee22ced8fa7cf10a3cf5a2f8b0a03c60b18954501867c3803e64",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-26-SIVIRA.md",
+    "protocol": "sivira",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-26-SIVIRA.md",
+    "sha256": "a76913d3a3dec06584047f13487eeede6fed67c0e56b9d12ad26d6d7487c5ed3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-09-29-TokensFarm.md",
+    "protocol": "tokensfarm",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-09-29-TokensFarm.md",
+    "sha256": "0f6e09fc4505752a54449629e5f9b6bfc061c677c5452508971ae4846279aac6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-10-13-TheStandard.io.md",
+    "protocol": "thestandard.io",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-10-13-TheStandard.io.md",
+    "sha256": "d42bff8390dd39ef012d1d9fb9ada1bb7f4de2e32dba38ed290d4d3e2639d757",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-10-18-Onemind.md",
+    "protocol": "onemind",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-10-18-Onemind.md",
+    "sha256": "7ff814d872eff57a1af5f5926d8bc90372da19e8b3f8a766d8fd50d951124296",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-10-24-IPOR.md",
+    "protocol": "ipor",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-10-24-IPOR.md",
+    "sha256": "630d7d2efcfc8c045bcf71de166f4bc1b6d618989a931ba9e22871499a1d6aac",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-10-28-TokensFarm.md",
+    "protocol": "tokensfarm",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-10-28-TokensFarm.md",
+    "sha256": "ca092c62fd3bc63a67644aa953b4cc07a384d6943d4cf7fc42cf99a0b5775dfa",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-11-03-AngelBlock.md",
+    "protocol": "angelblock",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-11-03-AngelBlock.md",
+    "sha256": "e1b5410c53db0664c8571fbf7f06a0efdb2aecdee79d7ec6197147f3d798bb78",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2022-11-15-Taunt Token.md",
+    "protocol": "taunt",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-11-15-Taunt%20Token.md",
+    "sha256": "2b8455285ddf924c3697a7c6452703c962bb47672ed7a604996b7f649d8a0571",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-11-16-Onemind.md",
+    "protocol": "onemind",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-11-16-Onemind.md",
+    "sha256": "363393053d3b2ecb54c5e6b60f45a30367c24f6c110ed847d48fe432fc5c203d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-11-29-IPOR.md",
+    "protocol": "ipor",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-11-29-IPOR.md",
+    "sha256": "7cd03f8c692642035f537d9204cd3729115536ece26d3acb168c01bc972537d6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2022-12-21-Railgun.md",
+    "protocol": "railgun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2022-12-21-Railgun.md",
+    "sha256": "dcd1db71dbc8a5393509625aea285e08fae414cc1c7e19ca237e77d2a4d741ca",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-01-02-Onchain Trade.md",
+    "protocol": "onchain",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-01-02-Onchain%20Trade.md",
+    "sha256": "ec8db8986ea5168f70225ab21c5f4b0d155521c082f5ada9a2c222d61669db09",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-02-03-Railgun.md",
+    "protocol": "railgun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-02-03-Railgun.md",
+    "sha256": "f2a7498243e2d63b913262bc23193b2d390ca5b2eab15e2677175dd2afe0f111",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-02-06-GainDAO.md",
+    "protocol": "gaindao",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-02-06-GainDAO.md",
+    "sha256": "92dba23b1c1ff4f59ea89b24a019e636272dae3f1b0f00ae006a9b4211f59dae",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-02-15-Tangleswap.md",
+    "protocol": "tangleswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-02-15-Tangleswap.md",
+    "sha256": "24567089712d0344e68f161c147177aa5c80fad0e780db1c496cee6e4fba8e8e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-02-20-Tangleswap.md",
+    "protocol": "tangleswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-02-20-Tangleswap.md",
+    "sha256": "8eb0307e623145a4afe11749c4428128e914f13edb13de3e3a123d162109577c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-02-21-Unity.md",
+    "protocol": "unity",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-02-21-Unity.md",
+    "sha256": "96d5c0da8e2a34023e2d3decadc494611c171853164773c893c7543f740f726f",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2023-03-02-Tangleswap.md",
+    "protocol": "tangleswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-03-02-Tangleswap.md",
+    "sha256": "3690d6bc801c390e960810c3da0b7f8164f61acf85436cb1f765a82466a9226d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-03-13-DPNMDEFI.md",
+    "protocol": "dpnmdefi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-03-13-DPNMDEFI.md",
+    "sha256": "93ddc021b7295aeee462343d3acc39d8bfed5fe2e7e7e1fedf19441f6d6ca33f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-03-13-Tangleswap.md",
+    "protocol": "tangleswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-03-13-Tangleswap.md",
+    "sha256": "7666752b6607c85306b32e805014fa0918765370be458b68a8ba702e6d0bd52d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-03-14-Tangleswap.md",
+    "protocol": "tangleswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-03-14-Tangleswap.md",
+    "sha256": "d3cf8f523bdb9c9276876e31f4a3ecb4a519077941d771b6944d966c0f4fefc1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-03-27-Global Interlink.md",
+    "protocol": "global",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-03-27-Global%20Interlink.md",
+    "sha256": "e0a64f7261350de28a5e2ac6a3ff3e9403018ca1a3259a9889749aee5ade885a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-04-19-Umami.md",
+    "protocol": "umami",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-04-19-Umami.md",
+    "sha256": "74bba15444a3eb66292f37486cd56722078bb0ded8301c0109e4b77b0754ad2b",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2023-04-27-Tangleswap.md",
+    "protocol": "tangleswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-04-27-Tangleswap.md",
+    "sha256": "c1636705099513f77f08ced77460f4e249ab4c3cc72c90c4927e056732f1b25a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-05-15-Safle.md",
+    "protocol": "safle",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-05-15-Safle.md",
+    "sha256": "5667d7bf25251ea935c3aaea7efedaea779169118dc8f7069b4821ff52e2f3ba",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-05-24-Struct Finance.md",
+    "protocol": "struct",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-05-24-Struct%20Finance.md",
+    "sha256": "363d80d3a5a10a21c6fea3c0f81dff059a52864d450cecf1ea9b0fe105e370e8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-05-29-Gain.md",
+    "protocol": "gain",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-05-29-Gain.md",
+    "sha256": "033c5dd02ef00bba1bbbfae7f1e59149eaa762e39b36a20319f8391f4acbc0c9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-05-Fluxfire.md",
+    "protocol": "fluxfire",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-05-Fluxfire.md",
+    "sha256": "876b17a8ebf83e019abc30f45c8e53d1cc5de06da4dd5d490d531bf094244a75",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-05-Synquote.md",
+    "protocol": "synquote",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-05-Synquote.md",
+    "sha256": "66fd2c2116dab54b2a56535e5e294040702e6d0a018be9821a00fe96ffea08e1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-08-Aurora.md",
+    "protocol": "aurora",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-08-Aurora.md",
+    "sha256": "cec10342ddd34774160275adfe5dd62dfef4358c63aa31992441d3206355fdf9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-09-Narwhal Finance.md",
+    "protocol": "narwhal",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-09-Narwhal%20Finance.md",
+    "sha256": "43959938bf98c75b7832bd1802e6326aa28e8ee76b4efbb10fc8d16ab7dae4a1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-12-Limit Break.md",
+    "protocol": "limit",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-12-Limit%20Break.md",
+    "sha256": "8f613eee135cd36ecf30fe31402ced62718d693d2e3d6302a0ad6ed273bf0511",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-14-Ondo Finance.md",
+    "protocol": "ondo",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-14-Ondo%20Finance.md",
+    "sha256": "a4d399b470c8a24fd12d8b8250231895652d478d4b95370ef4c84fa3f4ea2f60",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-16-Umami.md",
+    "protocol": "umami",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-16-Umami.md",
+    "sha256": "4ff9f73d52d4760fb2b02911376b069d96445fd8dbcf4ad7916ddbafa96845f4",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-22-Magpie.md",
+    "protocol": "magpie",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-22-Magpie.md",
+    "sha256": "330cec849e3526ebe26e0ca3cf1368d62728174e7fd70ae6c87c57799b0c505b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-23-VeSync.md",
+    "protocol": "vesync",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-23-VeSync.md",
+    "sha256": "417e32da2d6125becd20686415bb08d01e2bc489fbb89434527baa3b9d64839e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-06-26-MercyDAO.md",
+    "protocol": "mercydao",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-06-26-MercyDAO.md",
+    "sha256": "6c54b48da08dfc1a58ff415beb8b301a7f17c8bf6b9b5cb1a3c520b1e77b3029",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2023-07-13-Penpie.md",
+    "protocol": "penpie",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-07-13-Penpie.md",
+    "sha256": "05ad5d89d7bda8750601654b261fab05929500cf97bff04688b9ba9f7eb8d33e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-07-24-Vaultka.md",
+    "protocol": "vaultka",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-07-24-Vaultka.md",
+    "sha256": "e4c10d23f3bcf283f4a58aab61a4d7a5fe6f4d8d5cb5af29162ed24534e6ce10",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-08-07-Boba Network.md",
+    "protocol": "boba",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-08-07-Boba%20Network.md",
+    "sha256": "799ada06199fd56dce4d170c2c796a42aabdc01823037ce41c4f123628020667",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-08-11-Velocore.md",
+    "protocol": "velocore",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-08-11-Velocore.md",
+    "sha256": "867e492ffa8a26d2b4a07b628f9c63322a44a82b724fede5d3e716028b89c028",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-08-28-STFIL.md",
+    "protocol": "stfil",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-08-28-STFIL.md",
+    "sha256": "900e804e818bd70bac2a22c435a813c13c562d896861533e0049400494a957af",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-08-30-Vaultka.md",
+    "protocol": "vaultka",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-08-30-Vaultka.md",
+    "sha256": "3f2895fab9d3b8ce9b100a351f00c6a03f73900f94ce991543a5cbd498878a7a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-09-01-Tradable.md",
+    "protocol": "tradable",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-09-01-Tradable.md",
+    "sha256": "2196b8ec293845531e13fd3f69ef8f0d6414019a3e9dd637995a9e4ea0b31e47",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2023-09-12-TProtocol.md",
+    "protocol": "tprotocol",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-09-12-TProtocol.md",
+    "sha256": "70c03b736254aee5427e4b366e4592e2aa6233ecd35ccc6261310c0e97960544",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-09-19-Tigris.md",
+    "protocol": "tigris",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-09-19-Tigris.md",
+    "sha256": "0796e6795e97757812204cf3e59d89ae24883574b367457cab28312490f61ce1",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2023-10-02-Auki.md",
+    "protocol": "auki",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-10-02-Auki.md",
+    "sha256": "1b413d7edbadcd5e8040ffb290923383a8212c2407daf806c98c70ebc6312aa8",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-10-18-Ethlas Failsafe.md",
+    "protocol": "ethlas",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-10-18-Ethlas%20Failsafe.md",
+    "sha256": "a6552b21a6de583320bf4f61f8cdb21ce36180115693220e677b02029d330e52",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2023-10-18-Nerd.md",
+    "protocol": "nerd",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-10-18-Nerd.md",
+    "sha256": "5b486b529cf052d303bb4e2a6c57cb1d695536033df3f9ed8b5da79d53f89a43",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2023-10-20-Ember.md",
+    "protocol": "ember",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-10-20-Ember.md",
+    "sha256": "83c936d0e015e8142a89c2b1f6ce2f24d5fa1e8d8d3d36199850610c91a3fc84",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-11-02-LFi.md",
+    "protocol": "lfi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-11-02-LFi.md",
+    "sha256": "9d84dfcae52188d428b08106d3e129968b71361c4857cfd849a5e33de22e5774",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-11-09-Vaultka.md",
+    "protocol": "vaultka",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-11-09-Vaultka.md",
+    "sha256": "0efb55836a1a59dcd9c2029a70d47a59c4a3ddfccb27974af5835377fde61488",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-11-24-Plexus.md",
+    "protocol": "plexus",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-11-24-Plexus.md",
+    "sha256": "ccc6b0c0225cd4fad3a4e4ed2790bc52ad8ed588fb78de6cc8cbff6ff3a742c3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-11-30-CVI.md",
+    "protocol": "cvi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-11-30-CVI.md",
+    "sha256": "bc575fffa8ef157f622c5027ce7be2d15a73ebc52ac154e5fd4d049daa0d45e9",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-12-11-Limit Break.md",
+    "protocol": "limit",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-12-11-Limit%20Break.md",
+    "sha256": "6404ec9014e7e73879b55b728a783f7bea893ecfd3ed0bcfdd44130e848958b6",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-12-14-EclipseFi.md",
+    "protocol": "eclipsefi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-12-14-EclipseFi.md",
+    "sha256": "72125b208acdc1cd732fd9c35b2619d07f30b71c912540ed4a8274b77ab09885",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-12-21-Your.md",
+    "protocol": "your",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-12-21-Your.md",
+    "sha256": "f01a922b4436b0c80ae0db8e1cf7769613cb9de22dc3e9646b6297aa8f3d509a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-12-22-CreditSwap.md",
+    "protocol": "creditswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-12-22-CreditSwap.md",
+    "sha256": "7c35c2c930bd17b1f37e22d05d22331b246527bdecfe978a3d0115fff3abd572",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2023-12-23-Avantis.md",
+    "protocol": "avantis",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2023-12-23-Avantis.md",
+    "sha256": "2b58bc2c18040e18dbcb67a06f1b0ea7c603913086a8ca6fe5ca62777b3c1260",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-03-Chainport.md",
+    "protocol": "chainport",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-03-Chainport.md",
+    "sha256": "c3d1a315ad5134304c1ffe1a48ed381dd90249789558597be08c72f28d9cfc47",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-04-Curra.md",
+    "protocol": "curra",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-04-Curra.md",
+    "sha256": "915a2bb0d15b9a8d912ba043ad9e87e9985d060067a45c976e5cded41c8eed86",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-04-aarna.md",
+    "protocol": "aarna",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-04-aarna.md",
+    "sha256": "73b473096d75bb909ee73ac9ddb26f4ebd9bee888aa718cb48f12ee51ab9419c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-10-Yollo.md",
+    "protocol": "yollo",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-10-Yollo.md",
+    "sha256": "785091e3e02388057b5b99cb03ca01256d8e5e3bdb49a691ed6b7f87b3d129d3",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-11-Value Labs.md",
+    "protocol": "value",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-11-Value%20Labs.md",
+    "sha256": "26731ee26bb867492ae73dc840301a3741c35eebbde0bbc536b03208d624c0c3",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-12-Defactor.md",
+    "protocol": "defactor",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-12-Defactor.md",
+    "sha256": "5eeb526b09a689417fc6e7ccf91082ba2710ee20f1fc3c719a127d5c0147765d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-12-TRZN Finance.md",
+    "protocol": "trzn",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-12-TRZN%20Finance.md",
+    "sha256": "41c01ee14074abc6870470353492d6fb7327dad002acc0e15d89bf258863e80b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-18-Devve.md",
+    "protocol": "devve",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-18-Devve.md",
+    "sha256": "bba2f1a5707ee2fd40c55f4fd2e08a090bdb2b6373bc29dcb2910fea75055a4d",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-19-Gain.md",
+    "protocol": "gain",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-19-Gain.md",
+    "sha256": "c954f52bfc64be38f5337844b0c45dc6af4d7c3ac4f9ceb04be10e2276c17b92",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-22-Gain.md",
+    "protocol": "gain",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-22-Gain.md",
+    "sha256": "04ff8a7b50dcde62cbc7d0d4a789e769b18ae5e854d889f9af284f056a99ef86",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-22-Synquote.md",
+    "protocol": "synquote",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-22-Synquote.md",
+    "sha256": "3e0c0a4396dddd7765bdc07c594f94c14a2e3141bc3db92bb60e746c0f37bc4e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-24-Narwhal Finance.md",
+    "protocol": "narwhal",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-24-Narwhal%20Finance.md",
+    "sha256": "dcd57e43e487ecdb373d15995eacf6852a02454366f012aee60455e48c5fe08e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-01-29-Sun Money.md",
+    "protocol": "sun",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-01-29-Sun%20Money.md",
+    "sha256": "d93ce60e7a4708141b608ce782be567d53125083d441b303725c63fe1ffb394d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-06-Devve.md",
+    "protocol": "devve",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-06-Devve.md",
+    "sha256": "4e967ce7014c058cabd2b67accbd9815b7a3864d8e06ca809cd894d8f2f930d6",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-08-LiquiStake.md",
+    "protocol": "liquistake",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-08-LiquiStake.md",
+    "sha256": "b14c990757d82a2eef5829be9cbe682f7f552ad17061ae076ce192b7fd46d7b2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-09-Darkpool One.md",
+    "protocol": "darkpool",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-09-Darkpool%20One.md",
+    "sha256": "f1f3a45a1dd371430376116d3d372099c86b0fa421f6616ebae1a97961519f25",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-20-Hinkal.md",
+    "protocol": "hinkal",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-20-Hinkal.md",
+    "sha256": "c9f1885ff289d6946ab28ca12b586ea5b2fab87d08d4b6989eba5540cc563871",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-20-IOTA.md",
+    "protocol": "iota",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-20-IOTA.md",
+    "sha256": "09c0ecfa9debcb4cffbf06cf4ab7d52c699cb4ba12c5aef35e7df0c6c5fda4ea",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-21-IOTA.md",
+    "protocol": "iota",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-21-IOTA.md",
+    "sha256": "5aad206a5d32e93b71860939454add595a5846862134deb29afbd017dcc3589a",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-23-EnergyWeb.md",
+    "protocol": "energyweb",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-23-EnergyWeb.md",
+    "sha256": "faf7e456587221f86854aa8a02785a0aedc5e6f2927189ba86b2a60f34f72eee",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-26-Tide.md",
+    "protocol": "tide",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-26-Tide.md",
+    "sha256": "06c625bf739bf6934acba3770dbb10a0bb829c0afd283471eee05474fe231dc4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-27-InterPlanetary Consensus (IPC).md",
+    "protocol": "interplanetary",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-27-InterPlanetary%20Consensus%20%28IPC%29.md",
+    "sha256": "4de1df8cb35f69c7465ecea4be8e74a06c7dead2230eeccbc8c4f3484c9eaa28",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-27-Paribus.md",
+    "protocol": "paribus",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-27-Paribus.md",
+    "sha256": "34b5befa8dab60465d3f6af588c48f80f53bbcead6fc60178dd562cae4ac96b7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-02-27-Wisdomise.md",
+    "protocol": "wisdomise",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-02-27-Wisdomise.md",
+    "sha256": "8d5a8c07543775b331d1c29efb2d09fe9816ccfab1880dc64890c4c4781e9f3d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-05-Repl.md",
+    "protocol": "repl",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-05-Repl.md",
+    "sha256": "c6eaf82ea6d3cda45efb2997987866917f45ff7b76f2c259f52ed9b91407ff2b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-06-Vaultka.md",
+    "protocol": "vaultka",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-06-Vaultka.md",
+    "sha256": "27735dbaab9b0a6930f0cae1eb43ec4a26317a34f76218ed81b938ac78f37dd7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-14-BlastOff.md",
+    "protocol": "blastoff",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-14-BlastOff.md",
+    "sha256": "3cd605ee023b55aa0b9a27209c53d76f317607962f6f611b64bd1c3483021f24",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-18-Convergent.md",
+    "protocol": "convergent",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-18-Convergent.md",
+    "sha256": "c7853bed81c8d2147925ba0d0e7bdf1b50b9755fea7a62d943427bc09eacb1a4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-18-zkDX.md",
+    "protocol": "zkdx",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-18-zkDX.md",
+    "sha256": "d997425abadcbd24d5d9ea1bc6869f0a47f089dcac6b664d28a51aaf2ebdddda",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-19-Cedro Finance.md",
+    "protocol": "cedro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-19-Cedro%20Finance.md",
+    "sha256": "4025e36eac9fc9c5da11bfab5391e3196b4713a02784587fc0849b74f40844eb",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-22-Wombat Exchange.md",
+    "protocol": "wombat",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-22-Wombat%20Exchange.md",
+    "sha256": "9a620ee3094d6597a7a169f7b115da07399af983fde6b1162560c6452f8b614e",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-25-IOTA.md",
+    "protocol": "iota",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-25-IOTA.md",
+    "sha256": "48ddedc758ab0e974a93afc975493c273b964471294f621347f99fd441ec8759",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-25-Planar Finance.md",
+    "protocol": "planar",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-25-Planar%20Finance.md",
+    "sha256": "36b8163a1aa5074d69e0c07fb5918b7208fd2ca1caf3d70255e9363259547bb1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-25-Propchain.md",
+    "protocol": "propchain",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-25-Propchain.md",
+    "sha256": "0c8ef641be3d369ed155abe20de51cf9e48d3e6a6d8eeb3b8c79c25b4beb9af4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-25-Stratis.md",
+    "protocol": "stratis",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-25-Stratis.md",
+    "sha256": "03bc07b9b99b3d57d15ae4d90677f3f3388748b7d5fe80326cea9517cf292dd7",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-28-CORGI.md",
+    "protocol": "corgi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-28-CORGI.md",
+    "sha256": "63db3da2c1acb7bd4b180f056338cc21f8dc4765394aacfa41ad73a8138a3e37",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-03-28-Paribus.md",
+    "protocol": "paribus",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-03-28-Paribus.md",
+    "sha256": "2320094da85d6b3095ce9b6e1534ad4073bebf1d3051a549d051ff0aead8eb0e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-04-Chainzoom.md",
+    "protocol": "chainzoom",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-04-Chainzoom.md",
+    "sha256": "f7ac1251e4a14ba27d9e4a99276d156b1d6bde70590d71e4a20a8d1ec1d9635a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-04-Wallek.md",
+    "protocol": "wallek",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-04-Wallek.md",
+    "sha256": "1a1c112c7634758d2184c2beeda34d86b0cef1debe0a43b6c0fd5797d2092cb0",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-08-SnailBrook.md",
+    "protocol": "snailbrook",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-08-SnailBrook.md",
+    "sha256": "862d4d3d8b8b5043b9ade3dea52ebc10163dc832ff778f15d5d4b8dded567b9b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-10-airpuff.md",
+    "protocol": "airpuff",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-10-airpuff.md",
+    "sha256": "5d73febf41b8fffbfe9e1a69b16782ca913d0b767fd3acee60d31e8a20cd25df",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-11-Metapro.md",
+    "protocol": "metapro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-11-Metapro.md",
+    "sha256": "ef248f493c66c0cc5fedb39e7555f10425788040a12930bda5c3d017842cb170",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-11-Zap.md",
+    "protocol": "zap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-11-Zap.md",
+    "sha256": "925cd54a4ea3d114c9f18ee98c724eb90eb6762e029e441f39f88c31ecdff3f1",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-12-bPNM.md",
+    "protocol": "bpnm",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-12-bPNM.md",
+    "sha256": "631caa6e1f6b9a49463d6a5bf7e8bf4a124fa3a17f8406fc6c900713b726812d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-16-Rollie.md",
+    "protocol": "rollie",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-16-Rollie.md",
+    "sha256": "bc3c8f7146ecf6854db776a2c94849816b24310b3d0d6c395a150897a4131405",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-19-Gumball.md",
+    "protocol": "gumball",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-19-Gumball.md",
+    "sha256": "ecc3c4c10a199eed023fcaa8e66dded3b74bfa8e6cbe931f2c3b4d87fa3a284a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-23-Hydro.md",
+    "protocol": "hydro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-23-Hydro.md",
+    "sha256": "5d6c6722dcc906dcbe0417bfaec4d5df9044c7908f1b9ee2956bd728d4981658",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-26-LayerK.md",
+    "protocol": "layerk",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-26-LayerK.md",
+    "sha256": "7f6d2e813a5f8567cb9f7ff0a88fc11057d1b7e4943c368133b6e5fdf09c26aa",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-04-30-SophiaVerse.ai.md",
+    "protocol": "sophiaverse.ai",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-04-30-SophiaVerse.ai.md",
+    "sha256": "18d0640adc67ecf30e1a91859168f4845cc9de9ca3774a059803c131f1f1b66e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-01-Airpuff.md",
+    "protocol": "airpuff",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-01-Airpuff.md",
+    "sha256": "390f834d1172304359d3ff2b4c2504de65a7e7800c16c33d25a40c504caf5802",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-01-Haven1.md",
+    "protocol": "haven1",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-01-Haven1.md",
+    "sha256": "2d2dde1ae8c4e99c2e540ec70e92806f0147eb23a73f0f97a0db36b6eaec7def",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-01-Provenance.md",
+    "protocol": "provenance",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-01-Provenance.md",
+    "sha256": "1cb986defebdd75b801c97c842b5f02f3644321d5db1a27fae03ffd4d6b63104",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-03-KBT token.md",
+    "protocol": "kbt",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-03-KBT%20token.md",
+    "sha256": "54771709dc7652e37ef6c5add169ae48123cfd7ea039f84190dc60e7223919d2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-07-KIP.md",
+    "protocol": "kip",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-07-KIP.md",
+    "sha256": "de098165defde80ceac15a68c3dfab1d7fe08454166efd65520ef87e36586619",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-07-YieldNest.md",
+    "protocol": "yieldnest",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-07-YieldNest.md",
+    "sha256": "98ec71c1efd3b3fefe40136d8ecc11f6113acf85079ba8e50f6e744dd826c340",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-08-Hydro.md",
+    "protocol": "hydro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-08-Hydro.md",
+    "sha256": "c44a1f43e35a206696ca6ddd8a265432ec4d9e41c2c4b2fb6b39aed627395558",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-13-Raiinmaker.md",
+    "protocol": "raiinmaker",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-13-Raiinmaker.md",
+    "sha256": "e3e764c6211dff8c07c7041513360c98f875dcc20da747bb98669a4fa6ede7bd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-15-Steadefi.md",
+    "protocol": "steadefi",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-15-Steadefi.md",
+    "sha256": "c6aa375ec2e9809201f0e44a98ce07e0db11eb7a779006ceef45b496bbaaffdd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-24-ChainPort.md",
+    "protocol": "chainport",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-24-ChainPort.md",
+    "sha256": "a045f4c7c6e823da6917b9c6fdd81288ecbf067d1ad67a939857143eb6dbefb5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-24-Hord.md",
+    "protocol": "hord",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-24-Hord.md",
+    "sha256": "7b3ee5c14db6e54e69c18d9db7e677fe150259484c9b41d263254249fead37de",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-27-Bladeswap.md",
+    "protocol": "bladeswap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-27-Bladeswap.md",
+    "sha256": "43c0defaa6be2e3647eaebbf6486120b2efbeb3d839f47db1d3ec53df25ea2b5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-27-Sakazuki.md",
+    "protocol": "sakazuki",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-27-Sakazuki.md",
+    "sha256": "5611852eebf8fbc83b35bdb9f00d30c738f41c49bbc93ba0d6f887cf8fde2c64",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-28-Shido.md",
+    "protocol": "shido",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-28-Shido.md",
+    "sha256": "c1b8f803af6f56d0214a3631b7ed24f6862b49dc3f2de83732b8404de8990fa1",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-29-Caldera.md",
+    "protocol": "caldera",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-29-Caldera.md",
+    "sha256": "612d7896dfb9203312098a6857d4c1344cea2eb57bfbfae1b0d44a93ac8837bc",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-29-Symbiosis.md",
+    "protocol": "symbiosis",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-29-Symbiosis.md",
+    "sha256": "2dc3eed34ec8da491982dc85ba3a7dd454c620f7c6334a0459cba9ac93aecf3f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-05-30-Devve.md",
+    "protocol": "devve",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-05-30-Devve.md",
+    "sha256": "f8fb80f125f473d03e442b5dc3b5eeb105cc01c501e85e34243041b031c2a91f",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-04-GainAI.md",
+    "protocol": "gainai",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-04-GainAI.md",
+    "sha256": "6e4603badd93af34eb4e7acbb4841be71bee5058146b69a0e53f8bbcfba38837",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-07-Zap.md",
+    "protocol": "zap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-07-Zap.md",
+    "sha256": "cb486ad58ea99963e08abc42d5e6352d4d6d90da7a7823370f3e80966384773f",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-09-Elektrik.md",
+    "protocol": "elektrik",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-09-Elektrik.md",
+    "sha256": "712871136eb00a811fb9a3054522a45bce35c2cf674410380d27ab4aa92159a3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-12-GPT360.md",
+    "protocol": "gpt360",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-12-GPT360.md",
+    "sha256": "ebd4ee050a4e7553442b4d5020e6c72720d07b1a6a1a08ebea20bd6a4ad833e2",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-12-Legion OTC.md",
+    "protocol": "legion",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-12-Legion%20OTC.md",
+    "sha256": "51f03b8a92717454581a367b6d48b6fd7f40e5ad8c65618c7cf24c9da47be318",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-23-Copra.md",
+    "protocol": "copra",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-23-Copra.md",
+    "sha256": "a1c56f1f5a7a4339bc2f0e155231dda9ca8dec71ec4b1a564afb4f5805827337",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-24-Project Pi.md",
+    "protocol": "project",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-24-Project%20Pi.md",
+    "sha256": "639a077a327b3d7390c5fa153a84372edae71f71e2710ec385c610ea937f7f26",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-25-Cyber Finance.md",
+    "protocol": "cyber",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-25-Cyber%20Finance.md",
+    "sha256": "95453bb31a0521c9bdb70533b5a5ae32c29bb2a2b12edb3440729c1e4f4cdbdf",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-26-starter.md",
+    "protocol": "starter",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-26-starter.md",
+    "sha256": "d3018922e637016ea5436a456e332ea9986d78c704f3ae0a5538a6ca9b9e2269",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-26-zap.md",
+    "protocol": "zap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-26-zap.md",
+    "sha256": "f9e2fd38636f5302673f4269ff112151328ec9c05a0a3f9646ff2acec95f0469",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-29-Realize.md",
+    "protocol": "realize",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-29-Realize.md",
+    "sha256": "751f7132bf77abc80cbc71367b1a6549d754b1fd0e4980cf644bf6c5c36b9e3e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-30-Devve.md",
+    "protocol": "devve",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-30-Devve.md",
+    "sha256": "f1e5d4c143177cfb6e5c7792aba2489adea8023b9c469c9b4dcd6c60c9c9d3de",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-06-30-Shido.md",
+    "protocol": "shido",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-06-30-Shido.md",
+    "sha256": "475dd31b2cc90dcf0d663d7d3b060a8bf274ee04d18f4af778260b91f77dec33",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-07-01-Heurist.md",
+    "protocol": "heurist",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-07-01-Heurist.md",
+    "sha256": "13b9d885daba0edb03381ac726d8aaf37a2d81885d6e8b2f6d17fffc3453249e",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-07-06-Vaultka.md",
+    "protocol": "vaultka",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-07-06-Vaultka.md",
+    "sha256": "b0cdf6f18bc51458d40a36ef81c1a2069c74bf1d3c91f9ea02ff9b9e6abe7af0",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-07-06-Zap.md",
+    "protocol": "zap",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-07-06-Zap.md",
+    "sha256": "e469a407272dfc971a630af49f0c214d90b40f229fc81111fdee15f7da1ef609",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-08-06-Vaultka.md",
+    "protocol": "vaultka",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-08-06-Vaultka.md",
+    "sha256": "23d82a5833b7a54efced498d476b57722e319863b9d9d4080a757c9a43e2e2be",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-08-15-Filament.md",
+    "protocol": "filament",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-08-15-Filament.md",
+    "sha256": "a8c8c707661f790286470030a617cb482175299a7d3e76e737057500d86338d3",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-08-29-Xyro.md",
+    "protocol": "xyro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-08-29-Xyro.md",
+    "sha256": "c3a550f8d3f2500d1b4f7c3485a58957ff99fea37bd80b0600f39e5b76dff52d",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-09-25-Teahouse.md",
+    "protocol": "teahouse",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-09-25-Teahouse.md",
+    "sha256": "5e7a95c7d62856e6ebf721cc48d8e10aee763a9e04672c5023386b7f29989a99",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-09-26-Xyro.md",
+    "protocol": "xyro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-09-26-Xyro.md",
+    "sha256": "fe43f2743cb9660fa9504c616223aac823999111890dcec078fd70f6aedd641b",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-10-10-Bitgrit.md",
+    "protocol": "bitgrit",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-10-10-Bitgrit.md",
+    "sha256": "3b40e22aa9ae204ed12213d6efac0ade078bd6ed33ddecb39434b5807cfe74bd",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-10-16-Isle Finance.md",
+    "protocol": "isle",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-10-16-Isle%20Finance.md",
+    "sha256": "4ccf0c05337dcb2d66ef6c9c43ab3ea0d2a1f2ece18f9852c8dd27afc45cc327",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-10-24-Beyond.md",
+    "protocol": "beyond",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-10-24-Beyond.md",
+    "sha256": "9c724657e04f7c171ec69576899b144998c84cfa804bfdb12e455449938729ff",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-10-25-Teahouse.md",
+    "protocol": "teahouse",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-10-25-Teahouse.md",
+    "sha256": "0b7bf5b36673a9101d097b44f8c0be3b7055e17d329f4e6be3f74dfb68a38745",
+    "split": "test"
+  },
+  {
+    "path": "reports/Zokyo/2024-10-29-Liberty Finance.md",
+    "protocol": "liberty",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-10-29-Liberty%20Finance.md",
+    "sha256": "a22d8f29da96aec22790f9762a81355216c58fb07c0e1c393763d84873ee38db",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-10-30-Auki Labs.md",
+    "protocol": "auki",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-10-30-Auki%20Labs.md",
+    "sha256": "a6115c6d5ee7bad5c7be6ed492dc2e3695b577a46000297fa12fe6d77099b09c",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-04-Heurist.md",
+    "protocol": "heurist",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-04-Heurist.md",
+    "sha256": "7affe9a1bb39aeddab923012a68e1f80ce988acea66d6882f3fd5b81a027e84a",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-07-Galaxy Games.md",
+    "protocol": "galaxy",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-07-Galaxy%20Games.md",
+    "sha256": "346dcb7e507956e139e32a3d8c523603c32cfd2a415db23068c9a6703b883fdf",
+    "split": "validation"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-07-Xyro.md",
+    "protocol": "xyro",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-07-Xyro.md",
+    "sha256": "da39e270fd528aa06d4b9734e8a91ad366d2cc74faa4ff0158b3618151b82744",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-13-Realize.md",
+    "protocol": "realize",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-13-Realize.md",
+    "sha256": "d3d15861678d835244736fc7c62c469ba8ebb8060efe1fb6d0599dcaf925ca6f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-19-The Forevver Association.md",
+    "protocol": "the",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-19-The%20Forevver%20Association.md",
+    "sha256": "9186579e0790b8c027e79956842a58f19a3f5d8c12ee2b9c8f5f1ab0c6953d49",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-19-Tren.md",
+    "protocol": "tren",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-19-Tren.md",
+    "sha256": "223d0987e7414a8f4287443658444fc3b0d110c3f851fa30b02727cc7a98df32",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-21-Filament.md",
+    "protocol": "filament",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-21-Filament.md",
+    "sha256": "28767bf6b16a0519130629281fdc1ebca628473c0f2c3e4e13b80bbffaa28521",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-25-Bando.md",
+    "protocol": "bando",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-25-Bando.md",
+    "sha256": "8bb86fb864ddb3dac87fbbee2eb8e8cf5ee4a974134ad8ba5c60978ecd7fb0a5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-11-26-Zerolend.md",
+    "protocol": "zerolend",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-11-26-Zerolend.md",
+    "sha256": "887bf77ef0101eaaba37732bc385dfad1313f774f02ceca8c08070c73fc1f977",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-12-04-Welf.md",
+    "protocol": "welf",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-12-04-Welf.md",
+    "sha256": "133deea0e4626ccf2eb29f81772a934b77a0f986f3aa44a86e62e0752cabbcaf",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2024-12-31-VaultCraft.md",
+    "protocol": "vaultcraft",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2024-12-31-VaultCraft.md",
+    "sha256": "cd621d8c31e7ab3fb0f1819cb0a9c0c085c4804ddcfb283d5ac25d1b27466c1f",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2025-01-03-Symbiosis.md",
+    "protocol": "symbiosis",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2025-01-03-Symbiosis.md",
+    "sha256": "65b03ffd518516e1fd8c3a72f9ef8dce2698458a1cb51d011bf553882f2686d5",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2025-01-07-Colend.md",
+    "protocol": "colend",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2025-01-07-Colend.md",
+    "sha256": "002798164d8d1ae69e7a726a1a0500ec542bf21f32e3a14451d446f9eedeabb4",
+    "split": "train"
+  },
+  {
+    "path": "reports/Zokyo/2025-01-09-Evoq.md",
+    "protocol": "evoq",
+    "auditor": "Zokyo",
+    "url": "https://github.com/solodit/solodit_content/blob/4d5330d12978c7a8fc2aab5b171112784fb671bd/reports/Zokyo/2025-01-09-Evoq.md",
+    "sha256": "7f76ce191d74ae3158e165edfa051ea1c405e2b14cb96bacdce7dd0cbfe0578c",
+    "split": "train"
+  }
+]

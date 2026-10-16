@@ -1,0 +1,6 @@
+{
+  "model": "smoothed unigram",
+  "loss": 5.8788788172888715,
+  "perplexity": 357.4082969813156,
+  "accuracy": 0.0718
+}
