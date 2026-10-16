@@ -2,7 +2,7 @@
 
 **Autoregressive smart-contract audit prose generation with Simple RNN, Bidirectional RNN, LSTM and GRU.**
 
-AuditScribe compares four recurrent neural networks on next-token prediction and sequential text generation from public Web3 audit prose. It is an educational experiment for Foundations of Generative AI (ICT4403), Assignment 2. It generates audit-style continuations; it does not analyze contracts or verify vulnerabilities.
+AuditScribe compares four recurrent neural networks on next-token prediction and sequential text generation from public Web3 audit prose. It is an educational experiment for Foundations of Generative AI. It generates audit-style continuations; it does not analyze contracts or verify vulnerabilities.
 
 ## Dataset and provenance
 
