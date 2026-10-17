@@ -39,7 +39,7 @@ def acquire(dest):
     subprocess.run(['git', '-C', str(dest), 'checkout', '--detach', REVISION], check=True)
     return dest
 
-def prepare(source, out, seed=42, context=24, max_vocab=4000, max_train=50000):
+def prepare(source, out, seed=42, context=24, max_vocab=4000, max_train=0):
     out = Path(out); out.mkdir(parents=True, exist_ok=True)
     actual = subprocess.check_output(['git', '-C', str(source), 'rev-parse', 'HEAD'], text=True).strip()
     if actual != REVISION:
@@ -86,7 +86,7 @@ def prepare(source, out, seed=42, context=24, max_vocab=4000, max_train=50000):
                 windows.extend(ids[i-context:i+1] for i in range(context,len(ids),3))
         potential=len(windows)
         limit=max_train if split=='train' else 10000
-        if potential>limit:
+        if limit > 0 and potential>limit:
             windows=random.Random(seed).sample(windows,limit)
         arr=np.asarray(windows,dtype=np.int64)
         if arr.ndim!=2 or len(arr)==0: raise ValueError('Empty split')

@@ -38,5 +38,6 @@ def main():
     for s in samples:
         text += [f"## {s['model'].upper()} | temperature {s['temperature']} | seed {s['seed']}",f"Prompt: {s['prompt']}",'',s['text'],'']
     (out/'generated_samples.md').write_text('\n'.join(text))
+    (out/'generated_samples.txt').write_text('\n'.join(line.lstrip('# ') if line.startswith('#') else line for line in text))
     print(json.dumps(agg,indent=2))
 if __name__=='__main__':main()

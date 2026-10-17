@@ -9,7 +9,7 @@ class LanguageModel(nn.Module):
         self.embedding=nn.Embedding(vocab_size,embedding)
         cls={'rnn':nn.RNN,'birnn':nn.RNN,'lstm':nn.LSTM,'gru':nn.GRU}[kind]
         self.recurrent=cls(embedding,hidden,batch_first=True,bidirectional=kind=='birnn')
-        self.dropout=nn.Dropout(.15)
+        self.dropout=nn.Dropout(.25)
         self.output=nn.Linear(hidden*(2 if kind=='birnn' else 1),vocab_size)
     def forward(self,x):
         _,state=self.recurrent(self.embedding(x))

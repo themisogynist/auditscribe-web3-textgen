@@ -28,4 +28,28 @@ class PipelineTests(unittest.TestCase):
             self.assertEqual(out.shape,(3,20));torch.nn.functional.cross_entropy(out,y).backward()
             self.assertIsNotNone(m.embedding.weight.grad)
 
+
+class RecordedExperimentTests(unittest.TestCase):
+    def test_recorded_outputs_are_complete_and_consistent(self):
+        import math
+        from collections import Counter
+        result=Path('results')
+        if not (result/'metrics.json').exists():self.skipTest('No recorded experiment')
+        metrics=json.loads((result/'metrics.json').read_text())
+        history=json.loads((result/'history.json').read_text())
+        samples=json.loads((result/'samples.json').read_text())
+        cfg=json.loads((result/'config.json').read_text())
+        self.assertEqual({m['model'] for m in metrics},{'rnn','birnn','lstm','gru'})
+        self.assertEqual(len(history),4*cfg['epochs'])
+        self.assertEqual(len(samples),108)
+        counts=Counter((s['model'],s['temperature']) for s in samples)
+        self.assertEqual(set(counts.values()),{9})
+        for m in metrics:
+            rows=[h for h in history if h['model']==m['model']]
+            best=min(rows,key=lambda h:h['validation_loss'])
+            self.assertEqual(m['best_epoch'],best['epoch'])
+            self.assertAlmostEqual(m['best_validation_loss'],best['validation_loss'])
+            self.assertAlmostEqual(m['perplexity'],math.exp(m['loss']))
+        for s in samples:self.assertEqual(len(s['text'].split()),cfg['generation_length'])
+
 if __name__=='__main__':unittest.main()
